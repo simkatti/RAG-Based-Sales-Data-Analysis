@@ -6,9 +6,11 @@ authors = [
     {name = "Simona",email = "simonacallegari@outlook.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-]
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
 
 [tool.poetry]
 packages = [{include = "sales_data_analysis", from = "src"}]
