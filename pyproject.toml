@@ -2,15 +2,14 @@
 name = "sales-data-analysis"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Simona",email = "simonacallegari@outlook.com"}
-]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.12"
 pandas = "^2.2.2"
 numpy = "^1.26.4"
+sentence-transformers = "^5.3.0"
+chromadb = "^1.5.5"
 
 [tool.poetry]
 packages = [{include = "sales_data_analysis", from = "src"}]
