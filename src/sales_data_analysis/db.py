@@ -12,12 +12,26 @@ def add_to_collection(ids, embeddings, chunks, metadatas):
         metadatas=metadatas
     )
     print("Added to db successfully!")
+    print(collection.count())
+    return
+
+def retrieval(embeddings):
+    result = collection.query(
+    query_embeddings=[embeddings]
+    # n_results=10
+    # where={"page": 10} # query records with metadata field 'page' equal to 10
+)
+    if result:
+        print("Retrieval successfull")
+        return result
     return
     
 def delete_collection(): 
     chroma_client.delete_collection(name="sales_collection")
     return(print("collection deleted"))
-    
+
+def collection_count():
+    print(collection.count())
     
 # if __name__ == "__main__":
-#     delete_collection()
+#     collection_count()

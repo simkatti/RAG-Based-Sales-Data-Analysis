@@ -11,3 +11,6 @@ def embed(chunks):
     print("Embedding done!")
     return embeddings
 
+def embed_query(query):
+    embedded_query = model.encode(query)
+    return embedded_query.tolist()
