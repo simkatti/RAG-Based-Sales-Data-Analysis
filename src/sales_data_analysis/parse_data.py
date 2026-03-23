@@ -8,63 +8,110 @@ def read_file():
                               'Region', 'State', 'City'], encoding='ISO-8859-1')
     return df
 
+def write_document(data, filename):
+    with open(filename, "w") as f:
+        for line in data:
+            f.write(line)
+    return
+
 def convert_rows(df):
+    df = df.sort_values(by='Segment')
     strings = (
         df['Segment'] +' '+ df['Customer Name'] + ' from ' + df['City'] + ", " + df['State'] + ", " + df['Region'] + ' ordered ' + df['Quantity'].astype(str) + ' pcs of ' +
-        df['Product Name'] + ", " + df['Category'] + ", " + df['Sub-Category'] + ' for ' + df['Sales'].astype(str) + ' $. Order was placed on ' +  df['Order Date'].astype(str) + ' and shipped on ' + df['Ship Date'].astype(str) +
-        '. ' + df['Segment'] + ' recieved ' + df['Discount'].astype(str) + ' $ discount. Company made ' + df['Profit'].astype(str) + ' $ profit.'
+        df['Product Name'] + ", " + df['Category'] + ", " + df['Sub-Category'] + ' for ' + df['Sales'].astype(str) + ' $, order was placed on ' +  df['Order Date'].astype(str) + ' and shipped on ' + df['Ship Date'].astype(str) +
+        ', ' + df['Segment'] + ' recieved ' + df['Discount'].astype(str) + ' $ discount, Company made ' + df['Profit'].astype(str) + ' $ profit. \n'
     ).tolist()
     
-    metadatas = df[['Order ID', 'Customer ID', 'Region', 'Category']].to_dict(orient='records')
-    return strings,metadatas
+    return strings
 
-def monthly_sales(df):
+def sales_over_time(df):
+    df = df.sort_values(by='Order Date')
     df['Order Date'] = pd.to_datetime(df['Order Date'])
     monthly_performance = df.groupby(df['Order Date'].dt.to_period('M'))[['Sales', 'Profit']].sum()
     monthly_performance['Profit Margin'] = (monthly_performance['Profit'] / monthly_performance['Sales']) * 100
     
-    months = (
-        "In " + monthly_performance.index.astype(str) + " company made " + monthly_performance['Sales'].astype(str) + " $ in sales and " + monthly_performance['Profit'].astype(str)+ " $ in profit. Profit margin: " + monthly_performance['Profit Margin'].astype(str)
-    ).tolist()
+    yearly_performance = df.groupby(df['Order Date'].dt.to_period('Y'))[['Sales', 'Profit']].sum()
+    yearly_performance['Profit Margin'] = (yearly_performance['Profit'] / yearly_performance['Sales']) * 100
     
-    return months
+    result = []
+    for year, month in monthly_performance.groupby(monthly_performance.index.year):
+        for period, row in month.iterrows():
+            result.append(
+                f"In {period.to_timestamp().strftime('%B %Y')} company made {row['Sales'].round(2)} $ in sales and {row['Profit'].round(2)} $ in profit, having a profit margin of: {row['Profit Margin'].round(2)} %.\n"
+            )
+        year_row = yearly_performance.loc[str(year)]
+        result.append(
+            f"Annually in {year} company made {year_row['Sales'].round(2)} $ in sales and {year_row['Profit'].round(2)} $ in profit, having a profit margin of: {year_row['Profit Margin'].round(2)} %.\n"
+        )
+    return result
+
 
 def category_performance(df):
-    category = df.groupby(df['Category'])[['Sales', 'Profit']].sum()
+    df = df.sort_values(by='Category')
+    category = df.groupby(['Category','Sub-Category'])[['Sales', 'Profit', 'Discount']].sum()
     category['Profit Margin'] = (category['Profit'] /category['Sales']) *100
     max_category = category['Profit Margin'].idxmax()
+    max_discout = category['Discount'].idxmax()
+    category = category.round(2).reset_index()
     
-    categories = (
-        "Items in category " + category.index.astype(str) + " made " + category['Sales'].astype(str) + " $ in sales and " + category['Profit'].astype(str) + " $ in profit. Profit Margin: " + category['Profit Margin'].astype(str)
-    ).tolist()
-    
-    categories.append(f"category with highest profit margin: {max_category}")
+    result = []
+    for i, row in category.iterrows():
+        result.append(
+        f"Items in sub-category {row['Sub-Category']} (main category: {row['Category']}) made {row['Sales']} $ in sales and {row['Profit']} $ profit, while the total discount given was {row['Discount']} $, total profit margin: {row['Profit Margin']} % \n"
+        )
 
-    return categories
+    result.append(f"Items in sub-category {max_category[1]} (main category: {max_category[0]}) had highest profit margin of  {category['Profit Margin'].max().round(2)} % \n")
+    result.append(f"Items in sub-category {max_discout[1]} (main category: {max_discout[0]}) had highest discount of {category['Discount'].max().round(2)} $")
+    
+    return result
 
 def regional_performance(df):
-    regional = df.groupby(df['Region'])[['Sales', 'Profit']].sum()
+    df = df.sort_values(by='Region')
+    regional = df.groupby(['Region', 'State', 'City'])[['Sales', 'Profit']].sum()
     regional['Profit Margin'] = (regional['Profit'] / regional['Sales']) * 100
-    max_region = regional['Profit Margin'].idxmax()
+    city_region = regional['Profit Margin'].idxmax()
+    regional = regional.round(2).reset_index()
+
+    region = df.groupby('Region')[['Sales', 'Profit']].sum()
+    region['Profit Margin'] = (region['Profit'] / region['Sales']) * 100
+    max_region = region['Profit Margin'].idxmax()
+
+    result = []
+    for i, row in regional.iterrows():
+        result.append(
+            f"City {row['City']} in state {row['State']} in region {row['Region']} made {row['Sales']} $ in sales resulting in {row['Profit']} $ profit with profit margin of {row['Profit Margin']} % \n"
+        )
+    result.append(f"Best performin region was {max_region} making total of {region['Sales']['West'].round(2)} $ sales and {region['Profit']['West'].round(2)} $ profit with profit margin of {region['Profit Margin'].max().round(2)} %")
+ 
+    return result
+
+def initialise():
+    print("Reading file")
+    df = read_file()
+    print("Converting rows to text")
+    row_data = convert_rows(df)
+    print("Writing a document")
+    write_document(row_data, "row_descriptions.txt")
+    print("Performing sales analysis")
+    sales_data = sales_over_time(df)
+    print("Writing a document of annual sales analysis")
+    write_document(sales_data, "trend_analysis.txt")
+    print("Performin category analysis")
+    cat_data = category_performance(df)
+    print("Writing a document of category analysis")
+    write_document(cat_data, "category_analysis.txt")
+    print("Performing regional analysis")
+    region_data = regional_performance(df)
+    print("Writing a document")
+    write_document(region_data, "region_analysis.txt")
+    print("All done!")
     
-    cities = df.groupby(df['City'])[['Sales', 'Profit']].sum()
-    cities['Profit Margin'] = (cities['Profit'] / cities['Sales']) * 100
-    
-    regions = (
-        "Region " + regional.index.astype(str) + " made " + regional['Sales'].astype(str) + " $ in sales and " + regional['Profit'].astype(str) + " $  profit. Profit margin: " + regional['Profit Margin'].astype(str)
-    ).tolist()
-    
-    regions.append(f"Region with the highest profit magin: {max_region}")
-    
-    cities_perfomance = (
-        "City " + cities.index.astype(str) + " made " + cities['Sales'].astype(str) + " $ in sales and " + cities['Profit'].astype(str) + " $ profit. Profit margin: " + cities['Profit Margin'].astype(str)
-    ).tolist()
-    
-    return regions, cities_perfomance
+    return
 
 # if __name__ == "__main__":
-#     df = read_file()
-#     convert_rows(df)
+# #     df = read_file()
+# #     regional_performance(df)
+#     initialise()
 
     
     

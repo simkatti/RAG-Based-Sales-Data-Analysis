@@ -1,0 +1,605 @@
+City Arlington Heights in state Illinois in region Central made 14.11 $ in sales resulting in 1.23 $ profit with profit margin of 8.75 % 
+City Aurora in state Illinois in region Central made 7572.97 $ in sales resulting in -1894.72 $ profit with profit margin of -25.02 % 
+City Bloomington in state Illinois in region Central made 963.94 $ in sales resulting in -432.13 $ profit with profit margin of -44.83 % 
+City Bolingbrook in state Illinois in region Central made 218.31 $ in sales resulting in -4.66 $ profit with profit margin of -2.14 % 
+City Buffalo Grove in state Illinois in region Central made 831.4 $ in sales resulting in -89.65 $ profit with profit margin of -10.78 % 
+City Carol Stream in state Illinois in region Central made 1305.81 $ in sales resulting in -39.87 $ profit with profit margin of -3.05 % 
+City Champaign in state Illinois in region Central made 151.96 $ in sales resulting in -182.35 $ profit with profit margin of -120.0 % 
+City Chicago in state Illinois in region Central made 48539.54 $ in sales resulting in -6654.57 $ profit with profit margin of -13.71 % 
+City Danville in state Illinois in region Central made 43.37 $ in sales resulting in -69.4 $ profit with profit margin of -160.0 % 
+City Decatur in state Illinois in region Central made 3169.47 $ in sales resulting in -311.03 $ profit with profit margin of -9.81 % 
+City Des Plaines in state Illinois in region Central made 1493.21 $ in sales resulting in -236.77 $ profit with profit margin of -15.86 % 
+City Elmhurst in state Illinois in region Central made 891.63 $ in sales resulting in -212.13 $ profit with profit margin of -23.79 % 
+City Evanston in state Illinois in region Central made 1753.8 $ in sales resulting in 411.88 $ profit with profit margin of 23.49 % 
+City Frankfort in state Illinois in region Central made 97.63 $ in sales resulting in -26.06 $ profit with profit margin of -26.69 % 
+City Freeport in state Illinois in region Central made 215.82 $ in sales resulting in -127.45 $ profit with profit margin of -59.05 % 
+City Glenview in state Illinois in region Central made 158.38 $ in sales resulting in 13.86 $ profit with profit margin of 8.75 % 
+City Highland Park in state Illinois in region Central made 2035.1 $ in sales resulting in -169.94 $ profit with profit margin of -8.35 % 
+City Naperville in state Illinois in region Central made 1288.3 $ in sales resulting in -146.53 $ profit with profit margin of -11.37 % 
+City Normal in state Illinois in region Central made 366.74 $ in sales resulting in -110.02 $ profit with profit margin of -30.0 % 
+City Oak Park in state Illinois in region Central made 10.19 $ in sales resulting in 1.02 $ profit with profit margin of 10.0 % 
+City Orland Park in state Illinois in region Central made 339.96 $ in sales resulting in 67.99 $ profit with profit margin of 20.0 % 
+City Oswego in state Illinois in region Central made 321.98 $ in sales resulting in -536.13 $ profit with profit margin of -166.51 % 
+City Palatine in state Illinois in region Central made 116.31 $ in sales resulting in 23.26 $ profit with profit margin of 20.0 % 
+City Park Ridge in state Illinois in region Central made 685.0 $ in sales resulting in -238.45 $ profit with profit margin of -34.81 % 
+City Peoria in state Illinois in region Central made 501.48 $ in sales resulting in -72.76 $ profit with profit margin of -14.51 % 
+City Quincy in state Illinois in region Central made 330.28 $ in sales resulting in 49.1 $ profit with profit margin of 14.87 % 
+City Rockford in state Illinois in region Central made 3166.23 $ in sales resulting in -1149.51 $ profit with profit margin of -36.31 % 
+City Romeoville in state Illinois in region Central made 8.95 $ in sales resulting in -14.77 $ profit with profit margin of -165.0 % 
+City Saint Charles in state Illinois in region Central made 1388.71 $ in sales resulting in 216.64 $ profit with profit margin of 15.6 % 
+City Skokie in state Illinois in region Central made 568.83 $ in sales resulting in -346.87 $ profit with profit margin of -60.98 % 
+City Tinley Park in state Illinois in region Central made 22.29 $ in sales resulting in -8.92 $ profit with profit margin of -40.0 % 
+City Wheeling in state Illinois in region Central made 737.14 $ in sales resulting in -293.32 $ profit with profit margin of -39.79 % 
+City Woodstock in state Illinois in region Central made 857.25 $ in sales resulting in -24.89 $ profit with profit margin of -2.9 % 
+City Bloomington in state Indiana in region Central made 603.8 $ in sales resulting in 182.77 $ profit with profit margin of 30.27 % 
+City Columbus in state Indiana in region Central made 7960.4 $ in sales resulting in 2522.48 $ profit with profit margin of 31.69 % 
+City Elkhart in state Indiana in region Central made 171.43 $ in sales resulting in 16.67 $ profit with profit margin of 9.73 % 
+City Greenwood in state Indiana in region Central made 1665.05 $ in sales resulting in 471.73 $ profit with profit margin of 28.33 % 
+City Indianapolis in state Indiana in region Central made 9306.42 $ in sales resulting in 2741.65 $ profit with profit margin of 29.46 % 
+City La Porte in state Indiana in region Central made 1021.34 $ in sales resulting in 224.51 $ profit with profit margin of 21.98 % 
+City Lafayette in state Indiana in region Central made 19630.45 $ in sales resulting in 8976.1 $ profit with profit margin of 45.73 % 
+City Lawrence in state Indiana in region Central made 1545.13 $ in sales resulting in 532.74 $ profit with profit margin of 34.48 % 
+City Mishawaka in state Indiana in region Central made 776.24 $ in sales resulting in 96.59 $ profit with profit margin of 12.44 % 
+City New Albany in state Indiana in region Central made 209.55 $ in sales resulting in 73.35 $ profit with profit margin of 35.0 % 
+City New Castle in state Indiana in region Central made 84.61 $ in sales resulting in 23.08 $ profit with profit margin of 27.28 % 
+City Noblesville in state Indiana in region Central made 3091.18 $ in sales resulting in 353.31 $ profit with profit margin of 11.43 % 
+City Portage in state Indiana in region Central made 16.28 $ in sales resulting in 6.51 $ profit with profit margin of 40.0 % 
+City Richmond in state Indiana in region Central made 6235.15 $ in sales resulting in 1881.86 $ profit with profit margin of 30.18 % 
+City South Bend in state Indiana in region Central made 1238.33 $ in sales resulting in 279.55 $ profit with profit margin of 22.57 % 
+City Burlington in state Iowa in region Central made 57.43 $ in sales resulting in 26.67 $ profit with profit margin of 46.44 % 
+City Cedar Rapids in state Iowa in region Central made 278.4 $ in sales resulting in 80.74 $ profit with profit margin of 29.0 % 
+City Des Moines in state Iowa in region Central made 2008.84 $ in sales resulting in 360.4 $ profit with profit margin of 17.94 % 
+City Dubuque in state Iowa in region Central made 1687.3 $ in sales resulting in 477.67 $ profit with profit margin of 28.31 % 
+City Iowa City in state Iowa in region Central made 9.99 $ in sales resulting in 4.5 $ profit with profit margin of 45.0 % 
+City Marion in state Iowa in region Central made 358.36 $ in sales resulting in 164.29 $ profit with profit margin of 45.85 % 
+City Urbandale in state Iowa in region Central made 149.12 $ in sales resulting in 57.72 $ profit with profit margin of 38.71 % 
+City Waterloo in state Iowa in region Central made 30.32 $ in sales resulting in 11.82 $ profit with profit margin of 39.0 % 
+City Garden City in state Kansas in region Central made 312.38 $ in sales resulting in 90.63 $ profit with profit margin of 29.01 % 
+City Manhattan in state Kansas in region Central made 273.96 $ in sales resulting in 10.96 $ profit with profit margin of 4.0 % 
+City Olathe in state Kansas in region Central made 895.79 $ in sales resulting in 207.41 $ profit with profit margin of 23.15 % 
+City Overland Park in state Kansas in region Central made 606.91 $ in sales resulting in 203.52 $ profit with profit margin of 33.53 % 
+City Wichita in state Kansas in region Central made 825.27 $ in sales resulting in 323.93 $ profit with profit margin of 39.25 % 
+City Ann Arbor in state Michigan in region Central made 889.27 $ in sales resulting in 228.92 $ profit with profit margin of 25.74 % 
+City Canton in state Michigan in region Central made 818.13 $ in sales resulting in 149.28 $ profit with profit margin of 18.25 % 
+City Dearborn in state Michigan in region Central made 1603.31 $ in sales resulting in 467.39 $ profit with profit margin of 29.15 % 
+City Dearborn Heights in state Michigan in region Central made 1051.57 $ in sales resulting in 140.89 $ profit with profit margin of 13.4 % 
+City Detroit in state Michigan in region Central made 42446.94 $ in sales resulting in 13181.79 $ profit with profit margin of 31.05 % 
+City Grand Rapids in state Michigan in region Central made 526.13 $ in sales resulting in 233.92 $ profit with profit margin of 44.46 % 
+City Holland in state Michigan in region Central made 137.86 $ in sales resulting in 66.66 $ profit with profit margin of 48.35 % 
+City Jackson in state Michigan in region Central made 15420.04 $ in sales resulting in 5525.2 $ profit with profit margin of 35.83 % 
+City Lansing in state Michigan in region Central made 1610.29 $ in sales resulting in 412.87 $ profit with profit margin of 25.64 % 
+City Lincoln Park in state Michigan in region Central made 387.6 $ in sales resulting in 68.37 $ profit with profit margin of 17.64 % 
+City Midland in state Michigan in region Central made 5291.51 $ in sales resulting in 2293.68 $ profit with profit margin of 43.35 % 
+City Mount Pleasant in state Michigan in region Central made 17.14 $ in sales resulting in 6.17 $ profit with profit margin of 36.0 % 
+City Oak Park in state Michigan in region Central made 580.86 $ in sales resulting in 151.02 $ profit with profit margin of 26.0 % 
+City Rochester Hills in state Michigan in region Central made 132.52 $ in sales resulting in 54.33 $ profit with profit margin of 41.0 % 
+City Roseville in state Michigan in region Central made 638.33 $ in sales resulting in 268.91 $ profit with profit margin of 42.13 % 
+City Royal Oak in state Michigan in region Central made 35.34 $ in sales resulting in 16.96 $ profit with profit margin of 48.0 % 
+City Saginaw in state Michigan in region Central made 395.86 $ in sales resulting in 77.18 $ profit with profit margin of 19.5 % 
+City Sterling Heights in state Michigan in region Central made 110.04 $ in sales resulting in 33.07 $ profit with profit margin of 30.05 % 
+City Taylor in state Michigan in region Central made 353.7 $ in sales resulting in 44.87 $ profit with profit margin of 12.69 % 
+City Trenton in state Michigan in region Central made 1765.2 $ in sales resulting in 652.1 $ profit with profit margin of 36.94 % 
+City Westland in state Michigan in region Central made 2057.98 $ in sales resulting in 389.6 $ profit with profit margin of 18.93 % 
+City Apple Valley in state Minnesota in region Central made 137.94 $ in sales resulting in 8.97 $ profit with profit margin of 6.5 % 
+City Coon Rapids in state Minnesota in region Central made 503.13 $ in sales resulting in 136.45 $ profit with profit margin of 27.12 % 
+City Cottage Grove in state Minnesota in region Central made 144.36 $ in sales resulting in 54.8 $ profit with profit margin of 37.96 % 
+City Eagan in state Minnesota in region Central made 214.28 $ in sales resulting in 87.03 $ profit with profit margin of 40.62 % 
+City Lakeville in state Minnesota in region Central made 4260.95 $ in sales resulting in 1346.6 $ profit with profit margin of 31.6 % 
+City Maple Grove in state Minnesota in region Central made 882.87 $ in sales resulting in 385.01 $ profit with profit margin of 43.61 % 
+City Minneapolis in state Minnesota in region Central made 16870.54 $ in sales resulting in 6824.58 $ profit with profit margin of 40.45 % 
+City Moorhead in state Minnesota in region Central made 543.86 $ in sales resulting in 101.41 $ profit with profit margin of 18.65 % 
+City Rochester in state Minnesota in region Central made 1957.4 $ in sales resulting in 520.2 $ profit with profit margin of 26.58 % 
+City Roseville in state Minnesota in region Central made 2215.52 $ in sales resulting in 667.53 $ profit with profit margin of 30.13 % 
+City Saint Cloud in state Minnesota in region Central made 1331.82 $ in sales resulting in 469.61 $ profit with profit margin of 35.26 % 
+City Saint Paul in state Minnesota in region Central made 192.83 $ in sales resulting in 24.88 $ profit with profit margin of 12.9 % 
+City Woodbury in state Minnesota in region Central made 607.65 $ in sales resulting in 196.1 $ profit with profit margin of 32.27 % 
+City Columbia in state Missouri in region Central made 2990.04 $ in sales resulting in 1106.77 $ profit with profit margin of 37.02 % 
+City Gladstone in state Missouri in region Central made 164.34 $ in sales resulting in 52.59 $ profit with profit margin of 32.0 % 
+City Independence in state Missouri in region Central made 2417.37 $ in sales resulting in 975.66 $ profit with profit margin of 40.36 % 
+City Jefferson City in state Missouri in region Central made 86.62 $ in sales resulting in 8.66 $ profit with profit margin of 10.0 % 
+City Kirkwood in state Missouri in region Central made 241.34 $ in sales resulting in 47.13 $ profit with profit margin of 19.53 % 
+City Saint Charles in state Missouri in region Central made 270.94 $ in sales resulting in 94.84 $ profit with profit margin of 35.01 % 
+City Saint Louis in state Missouri in region Central made 285.96 $ in sales resulting in 98.55 $ profit with profit margin of 34.46 % 
+City Saint Peters in state Missouri in region Central made 697.16 $ in sales resulting in 146.4 $ profit with profit margin of 21.0 % 
+City Springfield in state Missouri in region Central made 15051.38 $ in sales resulting in 3905.59 $ profit with profit margin of 25.95 % 
+City Fremont in state Nebraska in region Central made 1119.01 $ in sales resulting in 179.47 $ profit with profit margin of 16.04 % 
+City Grand Island in state Nebraska in region Central made 15.96 $ in sales resulting in 7.98 $ profit with profit margin of 50.0 % 
+City Norfolk in state Nebraska in region Central made 17.43 $ in sales resulting in 8.02 $ profit with profit margin of 46.0 % 
+City Omaha in state Nebraska in region Central made 6312.53 $ in sales resulting in 1841.63 $ profit with profit margin of 29.17 % 
+City Fargo in state North Dakota in region Central made 919.91 $ in sales resulting in 230.15 $ profit with profit margin of 25.02 % 
+City Broken Arrow in state Oklahoma in region Central made 2439.53 $ in sales resulting in 575.52 $ profit with profit margin of 23.59 % 
+City Edmond in state Oklahoma in region Central made 959.55 $ in sales resulting in 243.1 $ profit with profit margin of 25.34 % 
+City Lawton in state Oklahoma in region Central made 1057.49 $ in sales resulting in 235.51 $ profit with profit margin of 22.27 % 
+City Muskogee in state Oklahoma in region Central made 1721.7 $ in sales resulting in 442.6 $ profit with profit margin of 25.71 % 
+City Norman in state Oklahoma in region Central made 1351.33 $ in sales resulting in 269.53 $ profit with profit margin of 19.95 % 
+City Oklahoma City in state Oklahoma in region Central made 6596.82 $ in sales resulting in 1580.76 $ profit with profit margin of 23.96 % 
+City Tulsa in state Oklahoma in region Central made 5556.97 $ in sales resulting in 1506.94 $ profit with profit margin of 27.12 % 
+City Aberdeen in state South Dakota in region Central made 25.5 $ in sales resulting in 6.63 $ profit with profit margin of 26.0 % 
+City Rapid City in state South Dakota in region Central made 152.64 $ in sales resulting in 44.77 $ profit with profit margin of 29.33 % 
+City Sioux Falls in state South Dakota in region Central made 1137.42 $ in sales resulting in 343.43 $ profit with profit margin of 30.19 % 
+City Abilene in state Texas in region Central made 1.39 $ in sales resulting in -3.76 $ profit with profit margin of -270.0 % 
+City Allen in state Texas in region Central made 290.21 $ in sales resulting in -39.88 $ profit with profit margin of -13.74 % 
+City Amarillo in state Texas in region Central made 3773.06 $ in sales resulting in -387.97 $ profit with profit margin of -10.28 % 
+City Arlington in state Texas in region Central made 5847.77 $ in sales resulting in -254.39 $ profit with profit margin of -4.35 % 
+City Austin in state Texas in region Central made 6057.98 $ in sales resulting in -20.39 $ profit with profit margin of -0.34 % 
+City Baytown in state Texas in region Central made 10.37 $ in sales resulting in 3.63 $ profit with profit margin of 35.0 % 
+City Beaumont in state Texas in region Central made 472.12 $ in sales resulting in 59.12 $ profit with profit margin of 12.52 % 
+City Bedford in state Texas in region Central made 226.26 $ in sales resulting in 10.62 $ profit with profit margin of 4.69 % 
+City Brownsville in state Texas in region Central made 1292.23 $ in sales resulting in 202.07 $ profit with profit margin of 15.64 % 
+City Bryan in state Texas in region Central made 616.66 $ in sales resulting in -213.71 $ profit with profit margin of -34.66 % 
+City Carrollton in state Texas in region Central made 2200.65 $ in sales resulting in -470.21 $ profit with profit margin of -21.37 % 
+City Cedar Hill in state Texas in region Central made 122.38 $ in sales resulting in 42.83 $ profit with profit margin of 35.0 % 
+City College Station in state Texas in region Central made 291.04 $ in sales resulting in -117.62 $ profit with profit margin of -40.41 % 
+City Conroe in state Texas in region Central made 111.67 $ in sales resulting in 6.98 $ profit with profit margin of 6.25 % 
+City Coppell in state Texas in region Central made 135.94 $ in sales resulting in 41.49 $ profit with profit margin of 30.52 % 
+City Corpus Christi in state Texas in region Central made 220.54 $ in sales resulting in -43.73 $ profit with profit margin of -19.83 % 
+City Dallas in state Texas in region Central made 20131.93 $ in sales resulting in -2846.53 $ profit with profit margin of -14.14 % 
+City Deer Park in state Texas in region Central made 6.92 $ in sales resulting in -10.39 $ profit with profit margin of -150.0 % 
+City Edinburg in state Texas in region Central made 88.28 $ in sales resulting in 27.81 $ profit with profit margin of 31.5 % 
+City El Paso in state Texas in region Central made 3546.06 $ in sales resulting in -179.9 $ profit with profit margin of -5.07 % 
+City Fort Worth in state Texas in region Central made 6602.71 $ in sales resulting in 298.73 $ profit with profit margin of 4.52 % 
+City Frisco in state Texas in region Central made 57.5 $ in sales resulting in -18.8 $ profit with profit margin of -32.7 % 
+City Garland in state Texas in region Central made 67.7 $ in sales resulting in -32.37 $ profit with profit margin of -47.82 % 
+City Grand Prairie in state Texas in region Central made 1012.49 $ in sales resulting in -85.23 $ profit with profit margin of -8.42 % 
+City Grapevine in state Texas in region Central made 41.53 $ in sales resulting in 8.77 $ profit with profit margin of 21.13 % 
+City Haltom City in state Texas in region Central made 269.33 $ in sales resulting in 51.96 $ profit with profit margin of 19.29 % 
+City Harlingen in state Texas in region Central made 471.4 $ in sales resulting in 18.13 $ profit with profit margin of 3.85 % 
+City Houston in state Texas in region Central made 64504.76 $ in sales resulting in -10153.55 $ profit with profit margin of -15.74 % 
+City Huntsville in state Texas in region Central made 6710.62 $ in sales resulting in -843.43 $ profit with profit margin of -12.57 % 
+City Irving in state Texas in region Central made 605.5 $ in sales resulting in -100.51 $ profit with profit margin of -16.6 % 
+City Keller in state Texas in region Central made 6.0 $ in sales resulting in 2.1 $ profit with profit margin of 35.0 % 
+City La Porte in state Texas in region Central made 30.39 $ in sales resulting in -32.53 $ profit with profit margin of -107.03 % 
+City Laredo in state Texas in region Central made 1024.34 $ in sales resulting in -54.61 $ profit with profit margin of -5.33 % 
+City League City in state Texas in region Central made 875.37 $ in sales resulting in -31.35 $ profit with profit margin of -3.58 % 
+City Lubbock in state Texas in region Central made 592.56 $ in sales resulting in 147.14 $ profit with profit margin of 24.83 % 
+City Mansfield in state Texas in region Central made 558.88 $ in sales resulting in -66.79 $ profit with profit margin of -11.95 % 
+City Mcallen in state Texas in region Central made 866.72 $ in sales resulting in -163.87 $ profit with profit margin of -18.91 % 
+City Mesquite in state Texas in region Central made 52.15 $ in sales resulting in -87.62 $ profit with profit margin of -168.02 % 
+City Missouri City in state Texas in region Central made 6.37 $ in sales resulting in -9.56 $ profit with profit margin of -150.0 % 
+City Odessa in state Texas in region Central made 976.12 $ in sales resulting in -69.71 $ profit with profit margin of -7.14 % 
+City Pasadena in state Texas in region Central made 2477.46 $ in sales resulting in -340.1 $ profit with profit margin of -13.73 % 
+City Pearland in state Texas in region Central made 495.0 $ in sales resulting in 39.41 $ profit with profit margin of 7.96 % 
+City Pharr in state Texas in region Central made 1540.71 $ in sales resulting in -237.55 $ profit with profit margin of -15.42 % 
+City Plano in state Texas in region Central made 3530.37 $ in sales resulting in -383.06 $ profit with profit margin of -10.85 % 
+City Port Arthur in state Texas in region Central made 737.05 $ in sales resulting in 105.78 $ profit with profit margin of 14.35 % 
+City Richardson in state Texas in region Central made 1288.46 $ in sales resulting in -24.49 $ profit with profit margin of -1.9 % 
+City Round Rock in state Texas in region Central made 4854.05 $ in sales resulting in -1183.43 $ profit with profit margin of -24.38 % 
+City San Angelo in state Texas in region Central made 650.64 $ in sales resulting in -58.55 $ profit with profit margin of -9.0 % 
+City San Antonio in state Texas in region Central made 21843.53 $ in sales resulting in -7299.05 $ profit with profit margin of -33.42 % 
+City San Marcos in state Texas in region Central made 108.44 $ in sales resulting in -19.34 $ profit with profit margin of -17.84 % 
+City Texas City in state Texas in region Central made 790.97 $ in sales resulting in 20.22 $ profit with profit margin of 2.56 % 
+City The Colony in state Texas in region Central made 142.16 $ in sales resulting in 31.66 $ profit with profit margin of 22.27 % 
+City Tyler in state Texas in region Central made 347.21 $ in sales resulting in -443.71 $ profit with profit margin of -127.79 % 
+City Waco in state Texas in region Central made 606.11 $ in sales resulting in -520.1 $ profit with profit margin of -85.81 % 
+City Appleton in state Wisconsin in region Central made 1671.31 $ in sales resulting in 554.77 $ profit with profit margin of 33.19 % 
+City Eau Claire in state Wisconsin in region Central made 1645.65 $ in sales resulting in 427.5 $ profit with profit margin of 25.98 % 
+City Franklin in state Wisconsin in region Central made 4774.25 $ in sales resulting in 1292.78 $ profit with profit margin of 27.08 % 
+City Green Bay in state Wisconsin in region Central made 527.32 $ in sales resulting in 228.48 $ profit with profit margin of 43.33 % 
+City Kenosha in state Wisconsin in region Central made 3906.73 $ in sales resulting in 1028.07 $ profit with profit margin of 26.32 % 
+City La Crosse in state Wisconsin in region Central made 830.41 $ in sales resulting in 272.08 $ profit with profit margin of 32.76 % 
+City Madison in state Wisconsin in region Central made 5346.79 $ in sales resulting in 1123.66 $ profit with profit margin of 21.02 % 
+City Milwaukee in state Wisconsin in region Central made 11410.22 $ in sales resulting in 2793.09 $ profit with profit margin of 24.48 % 
+City Sheboygan in state Wisconsin in region Central made 79.74 $ in sales resulting in 34.34 $ profit with profit margin of 43.07 % 
+City Superior in state Wisconsin in region Central made 1299.73 $ in sales resulting in 514.08 $ profit with profit margin of 39.55 % 
+City Waukesha in state Wisconsin in region Central made 54.5 $ in sales resulting in 14.17 $ profit with profit margin of 26.0 % 
+City Wausau in state Wisconsin in region Central made 317.48 $ in sales resulting in 90.43 $ profit with profit margin of 28.48 % 
+City West Allis in state Wisconsin in region Central made 250.48 $ in sales resulting in 28.37 $ profit with profit margin of 11.33 % 
+City Bristol in state Connecticut in region East made 814.58 $ in sales resulting in 208.16 $ profit with profit margin of 25.55 % 
+City Danbury in state Connecticut in region East made 27.46 $ in sales resulting in 9.89 $ profit with profit margin of 36.0 % 
+City Fairfield in state Connecticut in region East made 4935.58 $ in sales resulting in 1221.62 $ profit with profit margin of 24.75 % 
+City Manchester in state Connecticut in region East made 2126.28 $ in sales resulting in 600.51 $ profit with profit margin of 28.24 % 
+City Meriden in state Connecticut in region East made 1550.68 $ in sales resulting in 470.22 $ profit with profit margin of 30.32 % 
+City Middletown in state Connecticut in region East made 1154.61 $ in sales resulting in 157.62 $ profit with profit margin of 13.65 % 
+City Milford in state Connecticut in region East made 961.74 $ in sales resulting in 319.05 $ profit with profit margin of 33.17 % 
+City Norwich in state Connecticut in region East made 414.04 $ in sales resulting in 164.09 $ profit with profit margin of 39.63 % 
+City Shelton in state Connecticut in region East made 73.33 $ in sales resulting in 21.41 $ profit with profit margin of 29.19 % 
+City Waterbury in state Connecticut in region East made 1326.06 $ in sales resulting in 338.94 $ profit with profit margin of 25.56 % 
+City Dover in state Delaware in region East made 449.12 $ in sales resulting in 116.13 $ profit with profit margin of 25.86 % 
+City Newark in state Delaware in region East made 20448.05 $ in sales resulting in 8086.17 $ profit with profit margin of 39.54 % 
+City Wilmington in state Delaware in region East made 6553.9 $ in sales resulting in 1775.07 $ profit with profit margin of 27.08 % 
+City Washington in state District of Columbia in region East made 2865.02 $ in sales resulting in 1059.59 $ profit with profit margin of 36.98 % 
+City Bangor in state Maine in region East made 1164.45 $ in sales resulting in 422.22 $ profit with profit margin of 36.26 % 
+City Lewiston in state Maine in region East made 106.08 $ in sales resulting in 32.27 $ profit with profit margin of 30.42 % 
+City Baltimore in state Maryland in region East made 6156.84 $ in sales resulting in 1676.2 $ profit with profit margin of 27.22 % 
+City Clinton in state Maryland in region East made 5514.25 $ in sales resulting in 1274.24 $ profit with profit margin of 23.11 % 
+City Columbia in state Maryland in region East made 10962.35 $ in sales resulting in 3775.22 $ profit with profit margin of 34.44 % 
+City Gaithersburg in state Maryland in region East made 405.92 $ in sales resulting in 105.54 $ profit with profit margin of 26.0 % 
+City Hagerstown in state Maryland in region East made 43.8 $ in sales resulting in 20.59 $ profit with profit margin of 47.0 % 
+City Laurel in state Maryland in region East made 152.59 $ in sales resulting in 46.17 $ profit with profit margin of 30.26 % 
+City Rockville in state Maryland in region East made 469.77 $ in sales resulting in 133.21 $ profit with profit margin of 28.36 % 
+City Andover in state Massachusetts in region East made 435.85 $ in sales resulting in 124.19 $ profit with profit margin of 28.49 % 
+City Beverly in state Massachusetts in region East made 2583.19 $ in sales resulting in 654.92 $ profit with profit margin of 25.35 % 
+City Cambridge in state Massachusetts in region East made 502.09 $ in sales resulting in 173.73 $ profit with profit margin of 34.6 % 
+City Everett in state Massachusetts in region East made 5661.88 $ in sales resulting in 1360.08 $ profit with profit margin of 24.02 % 
+City Franklin in state Massachusetts in region East made 5534.56 $ in sales resulting in 464.63 $ profit with profit margin of 8.4 % 
+City Holyoke in state Massachusetts in region East made 301.96 $ in sales resulting in 60.39 $ profit with profit margin of 20.0 % 
+City Lawrence in state Massachusetts in region East made 6109.06 $ in sales resulting in 1849.4 $ profit with profit margin of 30.27 % 
+City Leominster in state Massachusetts in region East made 217.49 $ in sales resulting in 79.5 $ profit with profit margin of 36.55 % 
+City Lowell in state Massachusetts in region East made 4837.93 $ in sales resulting in 1312.57 $ profit with profit margin of 27.13 % 
+City Malden in state Massachusetts in region East made 228.38 $ in sales resulting in 31.17 $ profit with profit margin of 13.65 % 
+City Marlborough in state Massachusetts in region East made 206.64 $ in sales resulting in 67.61 $ profit with profit margin of 32.72 % 
+City New Bedford in state Massachusetts in region East made 235.97 $ in sales resulting in 50.49 $ profit with profit margin of 21.4 % 
+City Quincy in state Massachusetts in region East made 946.18 $ in sales resulting in 297.99 $ profit with profit margin of 31.49 % 
+City Revere in state Massachusetts in region East made 833.26 $ in sales resulting in 258.84 $ profit with profit margin of 31.06 % 
+City Concord in state New Hampshire in region East made 2827.63 $ in sales resulting in 787.63 $ profit with profit margin of 27.85 % 
+City Dover in state New Hampshire in region East made 4428.95 $ in sales resulting in 905.36 $ profit with profit margin of 20.44 % 
+City Nashua in state New Hampshire in region East made 35.94 $ in sales resulting in 13.51 $ profit with profit margin of 37.6 % 
+City Atlantic City in state New Jersey in region East made 23.36 $ in sales resulting in 11.68 $ profit with profit margin of 50.0 % 
+City Bayonne in state New Jersey in region East made 183.4 $ in sales resulting in 79.4 $ profit with profit margin of 43.29 % 
+City Belleville in state New Jersey in region East made 1891.6 $ in sales resulting in 283.65 $ profit with profit margin of 15.0 % 
+City Bridgeton in state New Jersey in region East made 52.41 $ in sales resulting in 3.44 $ profit with profit margin of 6.57 % 
+City Clifton in state New Jersey in region East made 336.82 $ in sales resulting in 98.59 $ profit with profit margin of 29.27 % 
+City East Orange in state New Jersey in region East made 377.27 $ in sales resulting in 174.62 $ profit with profit margin of 46.28 % 
+City Hackensack in state New Jersey in region East made 1456.16 $ in sales resulting in 451.25 $ profit with profit margin of 30.99 % 
+City Lakewood in state New Jersey in region East made 14852.04 $ in sales resulting in 3526.67 $ profit with profit margin of 23.75 % 
+City Linden in state New Jersey in region East made 115.36 $ in sales resulting in 49.6 $ profit with profit margin of 43.0 % 
+City Morristown in state New Jersey in region East made 5033.1 $ in sales resulting in 1838.23 $ profit with profit margin of 36.52 % 
+City New Brunswick in state New Jersey in region East made 14.77 $ in sales resulting in 7.16 $ profit with profit margin of 48.45 % 
+City Orange in state New Jersey in region East made 211.11 $ in sales resulting in 66.57 $ profit with profit margin of 31.53 % 
+City Passaic in state New Jersey in region East made 1562.09 $ in sales resulting in 356.82 $ profit with profit margin of 22.84 % 
+City Paterson in state New Jersey in region East made 2243.21 $ in sales resulting in 740.49 $ profit with profit margin of 33.01 % 
+City Perth Amboy in state New Jersey in region East made 1717.08 $ in sales resulting in 633.64 $ profit with profit margin of 36.9 % 
+City Plainfield in state New Jersey in region East made 4526.85 $ in sales resulting in 1235.67 $ profit with profit margin of 27.3 % 
+City Vineland in state New Jersey in region East made 647.97 $ in sales resulting in 62.25 $ profit with profit margin of 9.61 % 
+City Westfield in state New Jersey in region East made 519.72 $ in sales resulting in 153.18 $ profit with profit margin of 29.47 % 
+City Auburn in state New York in region East made 1384.16 $ in sales resulting in 280.8 $ profit with profit margin of 20.29 % 
+City Buffalo in state New York in region East made 9063.5 $ in sales resulting in 992.88 $ profit with profit margin of 10.95 % 
+City Freeport in state New York in region East made 523.33 $ in sales resulting in 107.36 $ profit with profit margin of 20.52 % 
+City Hempstead in state New York in region East made 2589.59 $ in sales resulting in 629.06 $ profit with profit margin of 24.29 % 
+City Jamestown in state New York in region East made 4708.79 $ in sales resulting in 1285.77 $ profit with profit margin of 27.31 % 
+City Lindenhurst in state New York in region East made 55.48 $ in sales resulting in 26.63 $ profit with profit margin of 48.0 % 
+City Long Beach in state New York in region East made 8521.2 $ in sales resulting in 1362.54 $ profit with profit margin of 15.99 % 
+City Mount Vernon in state New York in region East made 2119.63 $ in sales resulting in 662.51 $ profit with profit margin of 31.26 % 
+City New Rochelle in state New York in region East made 1255.23 $ in sales resulting in 368.41 $ profit with profit margin of 29.35 % 
+City New York City in state New York in region East made 256368.16 $ in sales resulting in 62036.98 $ profit with profit margin of 24.2 % 
+City Niagara Falls in state New York in region East made 199.84 $ in sales resulting in 59.24 $ profit with profit margin of 29.64 % 
+City Oceanside in state New York in region East made 3851.13 $ in sales resulting in 655.17 $ profit with profit margin of 17.01 % 
+City Rochester in state New York in region East made 6017.13 $ in sales resulting in 1223.22 $ profit with profit margin of 20.33 % 
+City Rome in state New York in region East made 534.85 $ in sales resulting in 154.21 $ profit with profit margin of 28.83 % 
+City Troy in state New York in region East made 1326.56 $ in sales resulting in 330.44 $ profit with profit margin of 24.91 % 
+City Utica in state New York in region East made 655.04 $ in sales resulting in 188.56 $ profit with profit margin of 28.79 % 
+City Watertown in state New York in region East made 4045.0 $ in sales resulting in 907.01 $ profit with profit margin of 22.42 % 
+City Yonkers in state New York in region East made 7657.67 $ in sales resulting in 2767.76 $ profit with profit margin of 36.14 % 
+City Akron in state Ohio in region East made 2729.99 $ in sales resulting in -186.64 $ profit with profit margin of -6.84 % 
+City Bowling Green in state Ohio in region East made 1865.56 $ in sales resulting in 149.94 $ profit with profit margin of 8.04 % 
+City Cincinnati in state Ohio in region East made 1611.98 $ in sales resulting in 175.34 $ profit with profit margin of 10.88 % 
+City Cleveland in state Ohio in region East made 6346.18 $ in sales resulting in -848.01 $ profit with profit margin of -13.36 % 
+City Columbus in state Ohio in region East made 15900.79 $ in sales resulting in -729.51 $ profit with profit margin of -4.59 % 
+City Cuyahoga Falls in state Ohio in region East made 29.09 $ in sales resulting in -12.58 $ profit with profit margin of -43.22 % 
+City Dublin in state Ohio in region East made 2379.16 $ in sales resulting in -351.3 $ profit with profit margin of -14.77 % 
+City Elyria in state Ohio in region East made 1.82 $ in sales resulting in -1.4 $ profit with profit margin of -76.67 % 
+City Fairfield in state Ohio in region East made 3077.7 $ in sales resulting in -129.29 $ profit with profit margin of -4.2 % 
+City Grove City in state Ohio in region East made 123.59 $ in sales resulting in 13.2 $ profit with profit margin of 10.68 % 
+City Hamilton in state Ohio in region East made 328.22 $ in sales resulting in -9.39 $ profit with profit margin of -2.86 % 
+City Kent in state Ohio in region East made 346.3 $ in sales resulting in -11.3 $ profit with profit margin of -3.26 % 
+City Lakewood in state Ohio in region East made 1756.32 $ in sales resulting in -336.61 $ profit with profit margin of -19.17 % 
+City Lancaster in state Ohio in region East made 8202.62 $ in sales resulting in -7149.62 $ profit with profit margin of -87.16 % 
+City Lorain in state Ohio in region East made 2015.11 $ in sales resulting in -632.92 $ profit with profit margin of -31.41 % 
+City Marion in state Ohio in region East made 3010.99 $ in sales resulting in -544.65 $ profit with profit margin of -18.09 % 
+City Mason in state Ohio in region East made 94.26 $ in sales resulting in -4.24 $ profit with profit margin of -4.49 % 
+City Medina in state Ohio in region East made 2477.72 $ in sales resulting in -1343.04 $ profit with profit margin of -54.2 % 
+City Mentor in state Ohio in region East made 693.13 $ in sales resulting in -123.27 $ profit with profit margin of -17.79 % 
+City Newark in state Ohio in region East made 8128.07 $ in sales resulting in -2292.41 $ profit with profit margin of -28.2 % 
+City Parma in state Ohio in region East made 3879.76 $ in sales resulting in 31.06 $ profit with profit margin of 0.8 % 
+City Springfield in state Ohio in region East made 5613.17 $ in sales resulting in -1420.16 $ profit with profit margin of -25.3 % 
+City Toledo in state Ohio in region East made 4466.05 $ in sales resulting in -340.0 $ profit with profit margin of -7.61 % 
+City Troy in state Ohio in region East made 3180.54 $ in sales resulting in -874.59 $ profit with profit margin of -27.5 % 
+City Allentown in state Pennsylvania in region East made 853.25 $ in sales resulting in -226.45 $ profit with profit margin of -26.54 % 
+City Altoona in state Pennsylvania in region East made 20.45 $ in sales resulting in -1.18 $ profit with profit margin of -5.79 % 
+City Bethlehem in state Pennsylvania in region East made 1689.63 $ in sales resulting in -1003.1 $ profit with profit margin of -59.37 % 
+City Chester in state Pennsylvania in region East made 1968.48 $ in sales resulting in 48.36 $ profit with profit margin of 2.46 % 
+City Lancaster in state Pennsylvania in region East made 1211.4 $ in sales resulting in -168.89 $ profit with profit margin of -13.94 % 
+City Philadelphia in state Pennsylvania in region East made 109077.01 $ in sales resulting in -13837.77 $ profit with profit margin of -12.69 % 
+City Reading in state Pennsylvania in region East made 873.71 $ in sales resulting in -268.76 $ profit with profit margin of -30.76 % 
+City York in state Pennsylvania in region East made 817.98 $ in sales resulting in -102.17 $ profit with profit margin of -12.49 % 
+City Cranston in state Rhode Island in region East made 4024.92 $ in sales resulting in 637.5 $ profit with profit margin of 15.84 % 
+City Providence in state Rhode Island in region East made 15980.65 $ in sales resulting in 5505.66 $ profit with profit margin of 34.45 % 
+City Warwick in state Rhode Island in region East made 2426.84 $ in sales resulting in 1063.8 $ profit with profit margin of 43.83 % 
+City Woonsocket in state Rhode Island in region East made 195.55 $ in sales resulting in 78.68 $ profit with profit margin of 40.23 % 
+City Burlington in state Vermont in region East made 8929.37 $ in sales resulting in 2244.98 $ profit with profit margin of 25.14 % 
+City Wheeling in state West Virginia in region East made 1209.82 $ in sales resulting in 185.92 $ profit with profit margin of 15.37 % 
+City Auburn in state Alabama in region South made 1766.83 $ in sales resulting in 452.61 $ profit with profit margin of 25.62 % 
+City Decatur in state Alabama in region South made 3374.82 $ in sales resulting in 1000.09 $ profit with profit margin of 29.63 % 
+City Florence in state Alabama in region South made 1997.35 $ in sales resulting in 248.66 $ profit with profit margin of 12.45 % 
+City Hoover in state Alabama in region South made 525.85 $ in sales resulting in 18.72 $ profit with profit margin of 3.56 % 
+City Huntsville in state Alabama in region South made 2484.37 $ in sales resulting in 1005.26 $ profit with profit margin of 40.46 % 
+City Mobile in state Alabama in region South made 5462.99 $ in sales resulting in 2175.83 $ profit with profit margin of 39.83 % 
+City Montgomery in state Alabama in region South made 3722.73 $ in sales resulting in 834.66 $ profit with profit margin of 22.42 % 
+City Tuscaloosa in state Alabama in region South made 175.7 $ in sales resulting in 51.01 $ profit with profit margin of 29.03 % 
+City Conway in state Arkansas in region South made 301.96 $ in sales resulting in 45.29 $ profit with profit margin of 15.0 % 
+City Fayetteville in state Arkansas in region South made 3742.81 $ in sales resulting in 1691.94 $ profit with profit margin of 45.21 % 
+City Hot Springs in state Arkansas in region South made 245.83 $ in sales resulting in 62.08 $ profit with profit margin of 25.25 % 
+City Jonesboro in state Arkansas in region South made 2915.32 $ in sales resulting in 801.11 $ profit with profit margin of 27.48 % 
+City Little Rock in state Arkansas in region South made 3560.35 $ in sales resulting in 1154.67 $ profit with profit margin of 32.43 % 
+City Pine Bluff in state Arkansas in region South made 212.91 $ in sales resulting in 70.2 $ profit with profit margin of 32.97 % 
+City Rogers in state Arkansas in region South made 40.41 $ in sales resulting in 18.59 $ profit with profit margin of 46.0 % 
+City Springdale in state Arkansas in region South made 4.3 $ in sales resulting in 1.42 $ profit with profit margin of 33.0 % 
+City Texarkana in state Arkansas in region South made 654.24 $ in sales resulting in 163.37 $ profit with profit margin of 24.97 % 
+City Apopka in state Florida in region South made 904.55 $ in sales resulting in 54.36 $ profit with profit margin of 6.01 % 
+City Boca Raton in state Florida in region South made 63.01 $ in sales resulting in -22.65 $ profit with profit margin of -35.94 % 
+City Boynton Beach in state Florida in region South made 469.58 $ in sales resulting in 50.66 $ profit with profit margin of 10.79 % 
+City Coral Gables in state Florida in region South made 64.25 $ in sales resulting in 22.36 $ profit with profit margin of 34.8 % 
+City Coral Springs in state Florida in region South made 824.99 $ in sales resulting in 18.56 $ profit with profit margin of 2.25 % 
+City Daytona Beach in state Florida in region South made 272.33 $ in sales resulting in -52.33 $ profit with profit margin of -19.22 % 
+City Delray Beach in state Florida in region South made 242.54 $ in sales resulting in 29.05 $ profit with profit margin of 11.98 % 
+City Deltona in state Florida in region South made 893.24 $ in sales resulting in 122.13 $ profit with profit margin of 13.67 % 
+City Fort Lauderdale in state Florida in region South made 4929.53 $ in sales resulting in -161.36 $ profit with profit margin of -3.27 % 
+City Hialeah in state Florida in region South made 2338.95 $ in sales resulting in -179.23 $ profit with profit margin of -7.66 % 
+City Hollywood in state Florida in region South made 1070.47 $ in sales resulting in 108.2 $ profit with profit margin of 10.11 % 
+City Homestead in state Florida in region South made 132.55 $ in sales resulting in 22.33 $ profit with profit margin of 16.85 % 
+City Jacksonville in state Florida in region South made 39133.33 $ in sales resulting in -2445.66 $ profit with profit margin of -6.25 % 
+City Jupiter in state Florida in region South made 2.06 $ in sales resulting in 0.15 $ profit with profit margin of 7.5 % 
+City Kissimmee in state Florida in region South made 751.98 $ in sales resulting in 84.6 $ profit with profit margin of 11.25 % 
+City Lakeland in state Florida in region South made 5606.89 $ in sales resulting in -188.64 $ profit with profit margin of -3.36 % 
+City Margate in state Florida in region South made 15.55 $ in sales resulting in 2.33 $ profit with profit margin of 15.0 % 
+City Melbourne in state Florida in region South made 95.62 $ in sales resulting in 9.56 $ profit with profit margin of 10.0 % 
+City Miami in state Florida in region South made 8673.07 $ in sales resulting in -1150.37 $ profit with profit margin of -13.26 % 
+City Miramar in state Florida in region South made 1531.19 $ in sales resulting in 32.28 $ profit with profit margin of 2.11 % 
+City North Miami in state Florida in region South made 22.13 $ in sales resulting in 3.08 $ profit with profit margin of 13.92 % 
+City Orlando in state Florida in region South made 1740.08 $ in sales resulting in 377.73 $ profit with profit margin of 21.71 % 
+City Ormond Beach in state Florida in region South made 2.81 $ in sales resulting in -1.97 $ profit with profit margin of -70.0 % 
+City Palm Coast in state Florida in region South made 274.43 $ in sales resulting in 17.66 $ profit with profit margin of 6.43 % 
+City Pembroke Pines in state Florida in region South made 1714.38 $ in sales resulting in -72.45 $ profit with profit margin of -4.23 % 
+City Pensacola in state Florida in region South made 2.21 $ in sales resulting in -1.48 $ profit with profit margin of -66.67 % 
+City Plantation in state Florida in region South made 1436.84 $ in sales resulting in 12.04 $ profit with profit margin of 0.84 % 
+City Pompano Beach in state Florida in region South made 90.44 $ in sales resulting in 15.01 $ profit with profit margin of 16.59 % 
+City Port Orange in state Florida in region South made 7.82 $ in sales resulting in 2.93 $ profit with profit margin of 37.5 % 
+City Port Saint Lucie in state Florida in region South made 248.95 $ in sales resulting in 4.45 $ profit with profit margin of 1.79 % 
+City Saint Petersburg in state Florida in region South made 1690.79 $ in sales resulting in 151.98 $ profit with profit margin of 8.99 % 
+City Sanford in state Florida in region South made 225.55 $ in sales resulting in -11.83 $ profit with profit margin of -5.24 % 
+City Tallahassee in state Florida in region South made 7250.67 $ in sales resulting in 392.71 $ profit with profit margin of 5.42 % 
+City Tamarac in state Florida in region South made 1413.51 $ in sales resulting in -351.9 $ profit with profit margin of -24.9 % 
+City Tampa in state Florida in region South made 5196.08 $ in sales resulting in -325.24 $ profit with profit margin of -6.26 % 
+City West Palm Beach in state Florida in region South made 141.33 $ in sales resulting in 31.61 $ profit with profit margin of 22.37 % 
+City Athens in state Georgia in region South made 1720.81 $ in sales resulting in 479.32 $ profit with profit margin of 27.85 % 
+City Atlanta in state Georgia in region South made 17197.84 $ in sales resulting in 6993.66 $ profit with profit margin of 40.67 % 
+City Columbus in state Georgia in region South made 14845.05 $ in sales resulting in 4104.12 $ profit with profit margin of 27.65 % 
+City East Point in state Georgia in region South made 268.4 $ in sales resulting in 102.01 $ profit with profit margin of 38.01 % 
+City Macon in state Georgia in region South made 364.01 $ in sales resulting in 144.85 $ profit with profit margin of 39.79 % 
+City Marietta in state Georgia in region South made 2938.62 $ in sales resulting in 512.15 $ profit with profit margin of 17.43 % 
+City Roswell in state Georgia in region South made 6652.32 $ in sales resulting in 2427.44 $ profit with profit margin of 36.49 % 
+City Sandy Springs in state Georgia in region South made 1997.03 $ in sales resulting in 520.59 $ profit with profit margin of 26.07 % 
+City Smyrna in state Georgia in region South made 2390.31 $ in sales resulting in 807.33 $ profit with profit margin of 33.78 % 
+City Warner Robins in state Georgia in region South made 434.8 $ in sales resulting in 53.69 $ profit with profit margin of 12.35 % 
+City Woodstock in state Georgia in region South made 286.65 $ in sales resulting in 104.88 $ profit with profit margin of 36.59 % 
+City Bowling Green in state Kentucky in region South made 211.81 $ in sales resulting in 67.12 $ profit with profit margin of 31.69 % 
+City Florence in state Kentucky in region South made 4559.8 $ in sales resulting in 1837.35 $ profit with profit margin of 40.29 % 
+City Georgetown in state Kentucky in region South made 1786.42 $ in sales resulting in 402.76 $ profit with profit margin of 22.55 % 
+City Henderson in state Kentucky in region South made 15661.01 $ in sales resulting in 4518.82 $ profit with profit margin of 28.85 % 
+City Louisville in state Kentucky in region South made 7275.39 $ in sales resulting in 1975.9 $ profit with profit margin of 27.16 % 
+City Murray in state Kentucky in region South made 264.62 $ in sales resulting in 94.47 $ profit with profit margin of 35.7 % 
+City Owensboro in state Kentucky in region South made 71.18 $ in sales resulting in 27.64 $ profit with profit margin of 38.84 % 
+City Richmond in state Kentucky in region South made 6761.52 $ in sales resulting in 2275.64 $ profit with profit margin of 33.66 % 
+City Bossier City in state Louisiana in region South made 1417.18 $ in sales resulting in 336.96 $ profit with profit margin of 23.78 % 
+City Kenner in state Louisiana in region South made 89.32 $ in sales resulting in 19.8 $ profit with profit margin of 22.16 % 
+City Lafayette in state Louisiana in region South made 5405.75 $ in sales resulting in 1042.29 $ profit with profit margin of 19.28 % 
+City Lake Charles in state Louisiana in region South made 547.41 $ in sales resulting in 241.26 $ profit with profit margin of 44.07 % 
+City Monroe in state Louisiana in region South made 1757.37 $ in sales resulting in 555.8 $ profit with profit margin of 31.63 % 
+City Gulfport in state Mississippi in region South made 166.5 $ in sales resulting in 77.58 $ profit with profit margin of 46.59 % 
+City Hattiesburg in state Mississippi in region South made 1722.84 $ in sales resulting in 582.07 $ profit with profit margin of 33.79 % 
+City Jackson in state Mississippi in region South made 7426.61 $ in sales resulting in 2100.44 $ profit with profit margin of 28.28 % 
+City Southaven in state Mississippi in region South made 1455.39 $ in sales resulting in 412.89 $ profit with profit margin of 28.37 % 
+City Asheville in state North Carolina in region South made 1475.38 $ in sales resulting in 77.51 $ profit with profit margin of 5.25 % 
+City Burlington in state North Carolina in region South made 12681.28 $ in sales resulting in -5894.53 $ profit with profit margin of -46.48 % 
+City Cary in state North Carolina in region South made 505.21 $ in sales resulting in 54.04 $ profit with profit margin of 10.7 % 
+City Chapel Hill in state North Carolina in region South made 14.02 $ in sales resulting in 4.73 $ profit with profit margin of 33.75 % 
+City Charlotte in state North Carolina in region South made 13693.34 $ in sales resulting in -429.78 $ profit with profit margin of -3.14 % 
+City Concord in state North Carolina in region South made 5111.84 $ in sales resulting in -1788.69 $ profit with profit margin of -34.99 % 
+City Durham in state North Carolina in region South made 879.96 $ in sales resulting in 116.87 $ profit with profit margin of 13.28 % 
+City Fayetteville in state North Carolina in region South made 3183.12 $ in sales resulting in 126.73 $ profit with profit margin of 3.98 % 
+City Gastonia in state North Carolina in region South made 895.06 $ in sales resulting in -14.74 $ profit with profit margin of -1.65 % 
+City Goldsboro in state North Carolina in region South made 34.94 $ in sales resulting in 3.06 $ profit with profit margin of 8.75 % 
+City Greensboro in state North Carolina in region South made 2406.78 $ in sales resulting in -122.95 $ profit with profit margin of -5.11 % 
+City Greenville in state North Carolina in region South made 2117.83 $ in sales resulting in -548.99 $ profit with profit margin of -25.92 % 
+City Hickory in state North Carolina in region South made 40.76 $ in sales resulting in -1.1 $ profit with profit margin of -2.69 % 
+City Jacksonville in state North Carolina in region South made 5579.86 $ in sales resulting in 121.83 $ profit with profit margin of 2.18 % 
+City Monroe in state North Carolina in region South made 1213.06 $ in sales resulting in 140.83 $ profit with profit margin of 11.61 % 
+City Raleigh in state North Carolina in region South made 4507.54 $ in sales resulting in 472.59 $ profit with profit margin of 10.48 % 
+City Thomasville in state North Carolina in region South made 151.29 $ in sales resulting in 33.39 $ profit with profit margin of 22.07 % 
+City Wilmington in state North Carolina in region South made 743.16 $ in sales resulting in 172.63 $ profit with profit margin of 23.23 % 
+City Wilson in state North Carolina in region South made 368.73 $ in sales resulting in -14.34 $ profit with profit margin of -3.89 % 
+City Columbia in state South Carolina in region South made 6168.16 $ in sales resulting in 1388.38 $ profit with profit margin of 22.51 % 
+City Florence in state South Carolina in region South made 1064.57 $ in sales resulting in 82.95 $ profit with profit margin of 7.79 % 
+City Mount Pleasant in state South Carolina in region South made 545.94 $ in sales resulting in 87.35 $ profit with profit margin of 16.0 % 
+City North Charleston in state South Carolina in region South made 284.25 $ in sales resulting in 9.67 $ profit with profit margin of 3.4 % 
+City Rock Hill in state South Carolina in region South made 11.85 $ in sales resulting in 3.79 $ profit with profit margin of 32.0 % 
+City Summerville in state South Carolina in region South made 406.94 $ in sales resulting in 196.91 $ profit with profit margin of 48.39 % 
+City Bartlett in state Tennessee in region South made 88.96 $ in sales resulting in 10.01 $ profit with profit margin of 11.25 % 
+City Bristol in state Tennessee in region South made 436.6 $ in sales resulting in -126.52 $ profit with profit margin of -28.98 % 
+City Chattanooga in state Tennessee in region South made 988.8 $ in sales resulting in 27.19 $ profit with profit margin of 2.75 % 
+City Clarksville in state Tennessee in region South made 2217.73 $ in sales resulting in -1055.35 $ profit with profit margin of -47.59 % 
+City Columbia in state Tennessee in region South made 5162.77 $ in sales resulting in -664.26 $ profit with profit margin of -12.87 % 
+City Franklin in state Tennessee in region South made 948.23 $ in sales resulting in -92.54 $ profit with profit margin of -9.76 % 
+City Hendersonville in state Tennessee in region South made 319.54 $ in sales resulting in -45.39 $ profit with profit margin of -14.2 % 
+City Jackson in state Tennessee in region South made 2117.21 $ in sales resulting in -43.96 $ profit with profit margin of -2.08 % 
+City Johnson City in state Tennessee in region South made 765.85 $ in sales resulting in 11.86 $ profit with profit margin of 1.55 % 
+City Knoxville in state Tennessee in region South made 3928.17 $ in sales resulting in -1165.08 $ profit with profit margin of -29.66 % 
+City Lebanon in state Tennessee in region South made 488.9 $ in sales resulting in 83.81 $ profit with profit margin of 17.14 % 
+City Memphis in state Tennessee in region South made 5942.34 $ in sales resulting in -1479.04 $ profit with profit margin of -24.89 % 
+City Murfreesboro in state Tennessee in region South made 337.33 $ in sales resulting in 15.69 $ profit with profit margin of 4.65 % 
+City Nashville in state Tennessee in region South made 6070.86 $ in sales resulting in -837.49 $ profit with profit margin of -13.8 % 
+City Smyrna in state Tennessee in region South made 848.58 $ in sales resulting in 19.37 $ profit with profit margin of 2.28 % 
+City Alexandria in state Virginia in region South made 5519.57 $ in sales resulting in 318.62 $ profit with profit margin of 5.77 % 
+City Arlington in state Virginia in region South made 14366.76 $ in sales resulting in 4424.09 $ profit with profit margin of 30.79 % 
+City Charlottesville in state Virginia in region South made 102.61 $ in sales resulting in 22.63 $ profit with profit margin of 22.05 % 
+City Chesapeake in state Virginia in region South made 5996.72 $ in sales resulting in 1262.79 $ profit with profit margin of 21.06 % 
+City Hampton in state Virginia in region South made 2722.26 $ in sales resulting in 953.83 $ profit with profit margin of 35.04 % 
+City Harrisonburg in state Virginia in region South made 4388.71 $ in sales resulting in 889.52 $ profit with profit margin of 20.27 % 
+City Newport News in state Virginia in region South made 3321.95 $ in sales resulting in 1197.05 $ profit with profit margin of 36.03 % 
+City Richmond in state Virginia in region South made 5141.26 $ in sales resulting in 1409.74 $ profit with profit margin of 27.42 % 
+City Salem in state Virginia in region South made 2039.55 $ in sales resulting in 533.03 $ profit with profit margin of 26.13 % 
+City Springfield in state Virginia in region South made 16628.53 $ in sales resulting in 4568.58 $ profit with profit margin of 27.47 % 
+City Suffolk in state Virginia in region South made 1597.9 $ in sales resulting in 389.81 $ profit with profit margin of 24.4 % 
+City Virginia Beach in state Virginia in region South made 5752.13 $ in sales resulting in 2024.88 $ profit with profit margin of 35.2 % 
+City Waynesboro in state Virginia in region South made 3058.77 $ in sales resulting in 603.39 $ profit with profit margin of 19.73 % 
+City Avondale in state Arizona in region West made 946.81 $ in sales resulting in 76.17 $ profit with profit margin of 8.04 % 
+City Bullhead City in state Arizona in region West made 22.29 $ in sales resulting in 6.72 $ profit with profit margin of 30.17 % 
+City Chandler in state Arizona in region West made 1076.75 $ in sales resulting in 81.46 $ profit with profit margin of 7.57 % 
+City Gilbert in state Arizona in region West made 4172.38 $ in sales resulting in 138.25 $ profit with profit margin of 3.31 % 
+City Glendale in state Arizona in region West made 2917.86 $ in sales resulting in 182.86 $ profit with profit margin of 6.27 % 
+City Mesa in state Arizona in region West made 4037.74 $ in sales resulting in -559.23 $ profit with profit margin of -13.85 % 
+City Peoria in state Arizona in region West made 1341.35 $ in sales resulting in -55.11 $ profit with profit margin of -4.11 % 
+City Phoenix in state Arizona in region West made 11000.26 $ in sales resulting in -2790.88 $ profit with profit margin of -25.37 % 
+City Scottsdale in state Arizona in region West made 1466.31 $ in sales resulting in -89.49 $ profit with profit margin of -6.1 % 
+City Sierra Vista in state Arizona in region West made 76.07 $ in sales resulting in 16.83 $ profit with profit margin of 22.12 % 
+City Tempe in state Arizona in region West made 1070.3 $ in sales resulting in 95.45 $ profit with profit margin of 8.92 % 
+City Tucson in state Arizona in region West made 6313.02 $ in sales resulting in -64.97 $ profit with profit margin of -1.03 % 
+City Yuma in state Arizona in region West made 840.86 $ in sales resulting in -465.99 $ profit with profit margin of -55.42 % 
+City Anaheim in state California in region West made 7986.87 $ in sales resulting in 1234.0 $ profit with profit margin of 15.45 % 
+City Antioch in state California in region West made 19.44 $ in sales resulting in 9.33 $ profit with profit margin of 48.0 % 
+City Apple Valley in state California in region West made 1915.08 $ in sales resulting in 283.62 $ profit with profit margin of 14.81 % 
+City Bakersfield in state California in region West made 1377.29 $ in sales resulting in 187.92 $ profit with profit margin of 13.64 % 
+City Brentwood in state California in region West made 5090.11 $ in sales resulting in 1216.81 $ profit with profit margin of 23.91 % 
+City Burbank in state California in region West made 3247.16 $ in sales resulting in 764.53 $ profit with profit margin of 23.54 % 
+City Camarillo in state California in region West made 1467.52 $ in sales resulting in 158.8 $ profit with profit margin of 10.82 % 
+City Chico in state California in region West made 2050.18 $ in sales resulting in 205.13 $ profit with profit margin of 10.01 % 
+City Chula Vista in state California in region West made 1041.62 $ in sales resulting in 248.43 $ profit with profit margin of 23.85 % 
+City Citrus Heights in state California in region West made 129.39 $ in sales resulting in 54.34 $ profit with profit margin of 42.0 % 
+City Coachella in state California in region West made 163.55 $ in sales resulting in 47.17 $ profit with profit margin of 28.84 % 
+City Concord in state California in region West made 2602.93 $ in sales resulting in 282.42 $ profit with profit margin of 10.85 % 
+City Costa Mesa in state California in region West made 1497.67 $ in sales resulting in 297.21 $ profit with profit margin of 19.84 % 
+City Danville in state California in region West made 1158.88 $ in sales resulting in 282.44 $ profit with profit margin of 24.37 % 
+City Davis in state California in region West made 32.4 $ in sales resulting in 15.55 $ profit with profit margin of 48.0 % 
+City Dublin in state California in region West made 22.0 $ in sales resulting in 1.38 $ profit with profit margin of 6.25 % 
+City El Cajon in state California in region West made 865.62 $ in sales resulting in 52.69 $ profit with profit margin of 6.09 % 
+City Encinitas in state California in region West made 591.98 $ in sales resulting in 71.06 $ profit with profit margin of 12.0 % 
+City Escondido in state California in region West made 94.55 $ in sales resulting in 27.75 $ profit with profit margin of 29.35 % 
+City Fairfield in state California in region West made 1470.58 $ in sales resulting in 117.98 $ profit with profit margin of 8.02 % 
+City Fresno in state California in region West made 7888.53 $ in sales resulting in 948.27 $ profit with profit margin of 12.02 % 
+City Hesperia in state California in region West made 1213.17 $ in sales resulting in 98.53 $ profit with profit margin of 8.12 % 
+City Huntington Beach in state California in region West made 2527.82 $ in sales resulting in 880.04 $ profit with profit margin of 34.81 % 
+City Inglewood in state California in region West made 3479.33 $ in sales resulting in 1026.7 $ profit with profit margin of 29.51 % 
+City La Mesa in state California in region West made 367.53 $ in sales resulting in 114.39 $ profit with profit margin of 31.12 % 
+City La Quinta in state California in region West made 46.32 $ in sales resulting in 18.06 $ profit with profit margin of 39.0 % 
+City Laguna Niguel in state California in region West made 290.98 $ in sales resulting in 41.98 $ profit with profit margin of 14.43 % 
+City Lake Elsinore in state California in region West made 283.92 $ in sales resulting in 17.74 $ profit with profit margin of 6.25 % 
+City Lake Forest in state California in region West made 1625.54 $ in sales resulting in 327.53 $ profit with profit margin of 20.15 % 
+City Lakewood in state California in region West made 1583.68 $ in sales resulting in 43.96 $ profit with profit margin of 2.78 % 
+City Lancaster in state California in region West made 477.44 $ in sales resulting in 79.44 $ profit with profit margin of 16.64 % 
+City Lodi in state California in region West made 136.98 $ in sales resulting in 44.49 $ profit with profit margin of 32.48 % 
+City Long Beach in state California in region West made 4933.83 $ in sales resulting in 746.4 $ profit with profit margin of 15.13 % 
+City Los Angeles in state California in region West made 175851.34 $ in sales resulting in 30440.76 $ profit with profit margin of 17.31 % 
+City Manteca in state California in region West made 452.18 $ in sales resulting in 172.24 $ profit with profit margin of 38.09 % 
+City Mission Viejo in state California in region West made 775.99 $ in sales resulting in 151.06 $ profit with profit margin of 19.47 % 
+City Modesto in state California in region West made 326.15 $ in sales resulting in 19.94 $ profit with profit margin of 6.11 % 
+City Montebello in state California in region West made 27.88 $ in sales resulting in 3.9 $ profit with profit margin of 14.0 % 
+City Moreno Valley in state California in region West made 1262.47 $ in sales resulting in 353.63 $ profit with profit margin of 28.01 % 
+City Morgan Hill in state California in region West made 545.01 $ in sales resulting in 7.85 $ profit with profit margin of 1.44 % 
+City Murrieta in state California in region West made 484.65 $ in sales resulting in 92.08 $ profit with profit margin of 19.0 % 
+City Oakland in state California in region West made 5964.42 $ in sales resulting in 834.1 $ profit with profit margin of 13.98 % 
+City Oceanside in state California in region West made 499.61 $ in sales resulting in 117.51 $ profit with profit margin of 23.52 % 
+City Ontario in state California in region West made 283.92 $ in sales resulting in -46.14 $ profit with profit margin of -16.25 % 
+City Oxnard in state California in region West made 1558.1 $ in sales resulting in 346.46 $ profit with profit margin of 22.24 % 
+City Pasadena in state California in region West made 4112.69 $ in sales resulting in 429.98 $ profit with profit margin of 10.45 % 
+City Pico Rivera in state California in region West made 145.9 $ in sales resulting in 62.74 $ profit with profit margin of 43.0 % 
+City Pomona in state California in region West made 1482.5 $ in sales resulting in 150.3 $ profit with profit margin of 10.14 % 
+City Rancho Cucamonga in state California in region West made 231.85 $ in sales resulting in 73.74 $ profit with profit margin of 31.81 % 
+City Redding in state California in region West made 333.58 $ in sales resulting in 25.02 $ profit with profit margin of 7.5 % 
+City Redlands in state California in region West made 2891.02 $ in sales resulting in 454.16 $ profit with profit margin of 15.71 % 
+City Redondo Beach in state California in region West made 1959.8 $ in sales resulting in 176.43 $ profit with profit margin of 9.0 % 
+City Redwood City in state California in region West made 41.9 $ in sales resulting in 14.14 $ profit with profit margin of 33.75 % 
+City Riverside in state California in region West made 1944.25 $ in sales resulting in 374.73 $ profit with profit margin of 19.27 % 
+City Roseville in state California in region West made 734.78 $ in sales resulting in 316.94 $ profit with profit margin of 43.13 % 
+City Sacramento in state California in region West made 7311.28 $ in sales resulting in 2069.69 $ profit with profit margin of 28.31 % 
+City Salinas in state California in region West made 728.89 $ in sales resulting in 270.52 $ profit with profit margin of 37.11 % 
+City San Bernardino in state California in region West made 979.3 $ in sales resulting in 69.98 $ profit with profit margin of 7.15 % 
+City San Clemente in state California in region West made 90.06 $ in sales resulting in 42.54 $ profit with profit margin of 47.24 % 
+City San Diego in state California in region West made 47521.03 $ in sales resulting in 6377.2 $ profit with profit margin of 13.42 % 
+City San Francisco in state California in region West made 112669.09 $ in sales resulting in 17507.39 $ profit with profit margin of 15.54 % 
+City San Gabriel in state California in region West made 2061.01 $ in sales resulting in 290.9 $ profit with profit margin of 14.11 % 
+City San Jose in state California in region West made 6071.23 $ in sales resulting in 1216.06 $ profit with profit margin of 20.03 % 
+City San Luis Obispo in state California in region West made 3.62 $ in sales resulting in 1.19 $ profit with profit margin of 33.0 % 
+City San Mateo in state California in region West made 75.18 $ in sales resulting in 35.33 $ profit with profit margin of 47.0 % 
+City Santa Ana in state California in region West made 3366.31 $ in sales resulting in 836.75 $ profit with profit margin of 24.86 % 
+City Santa Barbara in state California in region West made 4289.23 $ in sales resulting in 457.29 $ profit with profit margin of 10.66 % 
+City Santa Clara in state California in region West made 222.19 $ in sales resulting in 76.0 $ profit with profit margin of 34.21 % 
+City Santa Maria in state California in region West made 115.44 $ in sales resulting in 30.01 $ profit with profit margin of 26.0 % 
+City Stockton in state California in region West made 1227.6 $ in sales resulting in 339.53 $ profit with profit margin of 27.66 % 
+City Sunnyvale in state California in region West made 636.21 $ in sales resulting in 107.51 $ profit with profit margin of 16.9 % 
+City Temecula in state California in region West made 808.67 $ in sales resulting in 101.89 $ profit with profit margin of 12.6 % 
+City Thousand Oaks in state California in region West made 238.8 $ in sales resulting in 99.91 $ profit with profit margin of 41.84 % 
+City Torrance in state California in region West made 3132.27 $ in sales resulting in 545.15 $ profit with profit margin of 17.4 % 
+City Vacaville in state California in region West made 423.28 $ in sales resulting in 110.05 $ profit with profit margin of 26.0 % 
+City Vallejo in state California in region West made 1221.41 $ in sales resulting in 336.04 $ profit with profit margin of 27.51 % 
+City Visalia in state California in region West made 318.78 $ in sales resulting in 88.05 $ profit with profit margin of 27.62 % 
+City Westminster in state California in region West made 3826.65 $ in sales resulting in 763.69 $ profit with profit margin of 19.96 % 
+City Whittier in state California in region West made 444.77 $ in sales resulting in 44.48 $ profit with profit margin of 10.0 % 
+City Woodland in state California in region West made 264.66 $ in sales resulting in 33.38 $ profit with profit margin of 12.61 % 
+City Yucaipa in state California in region West made 50.8 $ in sales resulting in 13.21 $ profit with profit margin of 26.0 % 
+City Arvada in state Colorado in region West made 503.4 $ in sales resulting in 59.86 $ profit with profit margin of 11.89 % 
+City Aurora in state Colorado in region West made 4083.51 $ in sales resulting in -797.02 $ profit with profit margin of -19.52 % 
+City Broomfield in state Colorado in region West made 793.5 $ in sales resulting in 62.44 $ profit with profit margin of 7.87 % 
+City Colorado Springs in state Colorado in region West made 3694.01 $ in sales resulting in -956.68 $ profit with profit margin of -25.9 % 
+City Commerce City in state Colorado in region West made 146.35 $ in sales resulting in -32.93 $ profit with profit margin of -22.5 % 
+City Denver in state Colorado in region West made 12198.79 $ in sales resulting in -244.92 $ profit with profit margin of -2.01 % 
+City Englewood in state Colorado in region West made 124.06 $ in sales resulting in 13.75 $ profit with profit margin of 11.09 % 
+City Fort Collins in state Colorado in region West made 935.25 $ in sales resulting in -252.69 $ profit with profit margin of -27.02 % 
+City Greeley in state Colorado in region West made 30.35 $ in sales resulting in 10.36 $ profit with profit margin of 34.14 % 
+City Littleton in state Colorado in region West made 72.29 $ in sales resulting in -98.8 $ profit with profit margin of -136.67 % 
+City Longmont in state Colorado in region West made 915.09 $ in sales resulting in 34.83 $ profit with profit margin of 3.81 % 
+City Louisville in state Colorado in region West made 5070.42 $ in sales resulting in -3406.21 $ profit with profit margin of -67.18 % 
+City Loveland in state Colorado in region West made 20.96 $ in sales resulting in 4.48 $ profit with profit margin of 21.36 % 
+City Parker in state Colorado in region West made 1067.94 $ in sales resulting in -164.19 $ profit with profit margin of -15.37 % 
+City Pueblo in state Colorado in region West made 1686.94 $ in sales resulting in -900.97 $ profit with profit margin of -53.41 % 
+City Thornton in state Colorado in region West made 765.25 $ in sales resulting in 140.84 $ profit with profit margin of 18.4 % 
+City Boise in state Idaho in region West made 1094.47 $ in sales resulting in 221.94 $ profit with profit margin of 20.28 % 
+City Caldwell in state Idaho in region West made 455.63 $ in sales resulting in 58.7 $ profit with profit margin of 12.88 % 
+City Lewiston in state Idaho in region West made 9.58 $ in sales resulting in 3.35 $ profit with profit margin of 35.0 % 
+City Meridian in state Idaho in region West made 329.05 $ in sales resulting in 95.21 $ profit with profit margin of 28.94 % 
+City Pocatello in state Idaho in region West made 1344.94 $ in sales resulting in 181.36 $ profit with profit margin of 13.48 % 
+City Twin Falls in state Idaho in region West made 1148.81 $ in sales resulting in 266.16 $ profit with profit margin of 23.17 % 
+City Billings in state Montana in region West made 8.29 $ in sales resulting in 2.69 $ profit with profit margin of 32.5 % 
+City Bozeman in state Montana in region West made 43.66 $ in sales resulting in 20.81 $ profit with profit margin of 47.67 % 
+City Great Falls in state Montana in region West made 4605.58 $ in sales resulting in 1582.71 $ profit with profit margin of 34.36 % 
+City Helena in state Montana in region West made 443.84 $ in sales resulting in 74.62 $ profit with profit margin of 16.81 % 
+City Missoula in state Montana in region West made 487.98 $ in sales resulting in 152.5 $ profit with profit margin of 31.25 % 
+City Henderson in state Nevada in region West made 1888.06 $ in sales resulting in 393.04 $ profit with profit margin of 20.82 % 
+City Las Vegas in state Nevada in region West made 1834.02 $ in sales resulting in 332.44 $ profit with profit margin of 18.13 % 
+City North Las Vegas in state Nevada in region West made 9801.0 $ in sales resulting in 2247.69 $ profit with profit margin of 22.93 % 
+City Reno in state Nevada in region West made 644.06 $ in sales resulting in 115.05 $ profit with profit margin of 17.86 % 
+City Sparks in state Nevada in region West made 2561.96 $ in sales resulting in 228.54 $ profit with profit margin of 8.92 % 
+City Albuquerque in state New Mexico in region West made 2220.16 $ in sales resulting in 634.09 $ profit with profit margin of 28.56 % 
+City Carlsbad in state New Mexico in region West made 419.34 $ in sales resulting in 157.77 $ profit with profit margin of 37.62 % 
+City Clovis in state New Mexico in region West made 111.42 $ in sales resulting in 11.64 $ profit with profit margin of 10.44 % 
+City Farmington in state New Mexico in region West made 718.72 $ in sales resulting in 169.41 $ profit with profit margin of 23.57 % 
+City Las Cruces in state New Mexico in region West made 98.77 $ in sales resulting in 43.94 $ profit with profit margin of 44.49 % 
+City Rio Rancho in state New Mexico in region West made 1114.19 $ in sales resulting in 119.59 $ profit with profit margin of 10.73 % 
+City Santa Fe in state New Mexico in region West made 100.92 $ in sales resulting in 20.69 $ profit with profit margin of 20.5 % 
+City Eugene in state Oregon in region West made 1465.03 $ in sales resulting in 134.04 $ profit with profit margin of 9.15 % 
+City Gresham in state Oregon in region West made 2133.42 $ in sales resulting in 150.86 $ profit with profit margin of 7.07 % 
+City Hillsboro in state Oregon in region West made 87.84 $ in sales resulting in 1.55 $ profit with profit margin of 1.76 % 
+City Medford in state Oregon in region West made 90.22 $ in sales resulting in 19.7 $ profit with profit margin of 21.84 % 
+City Portland in state Oregon in region West made 4051.87 $ in sales resulting in 9.76 $ profit with profit margin of 0.24 % 
+City Redmond in state Oregon in region West made 1043.03 $ in sales resulting in -174.45 $ profit with profit margin of -16.73 % 
+City Salem in state Oregon in region West made 1404.7 $ in sales resulting in -262.33 $ profit with profit margin of -18.68 % 
+City Springfield in state Oregon in region West made 5761.26 $ in sales resulting in -853.31 $ profit with profit margin of -14.81 % 
+City Tigard in state Oregon in region West made 1393.78 $ in sales resulting in -216.29 $ profit with profit margin of -15.52 % 
+City Draper in state Utah in region West made 263.65 $ in sales resulting in 92.73 $ profit with profit margin of 35.17 % 
+City Layton in state Utah in region West made 4.96 $ in sales resulting in 2.33 $ profit with profit margin of 47.0 % 
+City Lehi in state Utah in region West made 1516.73 $ in sales resulting in 451.66 $ profit with profit margin of 29.78 % 
+City Logan in state Utah in region West made 280.28 $ in sales resulting in 46.96 $ profit with profit margin of 16.76 % 
+City Murray in state Utah in region West made 146.32 $ in sales resulting in 37.06 $ profit with profit margin of 25.33 % 
+City Orem in state Utah in region West made 2994.09 $ in sales resulting in 514.63 $ profit with profit margin of 17.19 % 
+City Pleasant Grove in state Utah in region West made 2138.18 $ in sales resulting in 580.65 $ profit with profit margin of 27.16 % 
+City Provo in state Utah in region West made 2761.23 $ in sales resulting in 388.57 $ profit with profit margin of 14.07 % 
+City Salt Lake City in state Utah in region West made 802.78 $ in sales resulting in 329.26 $ profit with profit margin of 41.02 % 
+City West Jordan in state Utah in region West made 311.85 $ in sales resulting in 102.67 $ profit with profit margin of 32.92 % 
+City Auburn in state Washington in region West made 4.18 $ in sales resulting in 1.5 $ profit with profit margin of 36.0 % 
+City Bellevue in state Washington in region West made 103.62 $ in sales resulting in 37.05 $ profit with profit margin of 35.76 % 
+City Bellingham in state Washington in region West made 3790.24 $ in sales resulting in 610.59 $ profit with profit margin of 16.11 % 
+City Covington in state Washington in region West made 413.68 $ in sales resulting in 115.11 $ profit with profit margin of 27.83 % 
+City Des Moines in state Washington in region West made 3454.44 $ in sales resulting in 1250.34 $ profit with profit margin of 36.2 % 
+City Edmonds in state Washington in region West made 2523.69 $ in sales resulting in 634.25 $ profit with profit margin of 25.13 % 
+City Everett in state Washington in region West made 3.86 $ in sales resulting in 1.4 $ profit with profit margin of 36.25 % 
+City Kent in state Washington in region West made 1351.25 $ in sales resulting in 603.1 $ profit with profit margin of 44.63 % 
+City Longview in state Washington in region West made 119.21 $ in sales resulting in 38.9 $ profit with profit margin of 32.63 % 
+City Marysville in state Washington in region West made 102.18 $ in sales resulting in 3.32 $ profit with profit margin of 3.24 % 
+City Olympia in state Washington in region West made 1020.45 $ in sales resulting in 139.63 $ profit with profit margin of 13.68 % 
+City Pasco in state Washington in region West made 2201.11 $ in sales resulting in 357.52 $ profit with profit margin of 16.24 % 
+City Redmond in state Washington in region West made 55.23 $ in sales resulting in 20.73 $ profit with profit margin of 37.54 % 
+City Renton in state Washington in region West made 1242.63 $ in sales resulting in 185.43 $ profit with profit margin of 14.92 % 
+City Seattle in state Washington in region West made 119540.74 $ in sales resulting in 29156.1 $ profit with profit margin of 24.39 % 
+City Spokane in state Washington in region West made 2027.92 $ in sales resulting in 172.23 $ profit with profit margin of 8.49 % 
+City Vancouver in state Washington in region West made 686.84 $ in sales resulting in 75.45 $ profit with profit margin of 10.99 % 
+City Cheyenne in state Wyoming in region West made 1603.14 $ in sales resulting in 100.2 $ profit with profit margin of 6.25 % 
+Best performin region was West making total of 725457.82 $ sales and 108418.45 $ profit with profit margin of 14.94 %

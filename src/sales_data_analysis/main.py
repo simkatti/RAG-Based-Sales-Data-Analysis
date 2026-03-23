@@ -1,49 +1,37 @@
-from parse_data import read_file, convert_rows
+from parse_data import initialise
 from vector_embeddings import embed
 from db import add_to_collection
+from chunk_docs import chunk_data
 
 
-def transactions():
-    df = read_file()
-    docs, metadata = convert_rows(df)
-    ids = [f"id_{i}" for i in range(len(docs))]
+def initialise_db(): #run once when starting
+    # initialise db with row descriptions:
+    initialise()
+    row_chunks, row_metadatas = chunk_data("row_descriptions.txt", "segment", 0) #for row descriptions
+    row_embeddings = embed(row_chunks)
+    row_ids=[str(i) for i in range(len(row_chunks))]
+    add_to_collection(row_ids, row_embeddings, row_chunks, row_metadatas)
     
-    chunk_size = 1000
-    for i in range(0, len(docs), chunk_size):
-        end = min(i+chunk_size, len(docs))
-        embeddings = embed(docs[i:end])
-        add_to_collection(ids[i:end], embeddings, metadata[i:end], docs[i:end])
-        print(f"added {end} rows to db")
+    # initialise db with sales trend analysis (monthly/yearly):
+    sales_chunks, sales_metadatas = chunk_data("trend_analysis.txt", "year", 2)
+    sales_embeddings = embed(sales_chunks)
+    sales_ids =[str(i) for i in range(len(sales_chunks))]
+    add_to_collection(sales_ids, sales_embeddings, sales_chunks, sales_metadatas)
+    
+    # initialise db with category analysis:
+    cat_chunks, cat_metadatas = chunk_data("category_analysis.txt", "category", 6)
+    cat_embeddings = embed(cat_chunks)
+    cat_ids = [str(i) for i in range(len(cat_chunks))]
+    add_to_collection(cat_ids, cat_embeddings, cat_chunks, cat_metadatas)
+    
 
-    return
-
-# def chunk_data(): 
-    # df = read_file()
-    # strings, metadata = convert_rows(df)
-    # chunk_size = 1000
-    # current_chunk = 0
-    # doc_chunk = []
-    # start_index = 0
-    # for i, sentence in enumerate(strings):
-    #     if current_chunk + len(sentence) <= chunk_size:
-    #         doc_chunk.append(sentence)
-    #         current_chunk += len(sentence)
-    #     else:
+    #initialise db with regional analysis:
+    region_chunks, region_metadatas = chunk_data("region_analysis.txt", "region", -17)
+    region_embeddings = embed(region_chunks)
+    region_ids = [str(i) for i in range(len(region_chunks))]
+    add_to_collection(region_ids, region_embeddings, region_chunks, region_metadatas)
             
-        
-        # current_chunk += len(sentence)
-        # if current_chunk <= chunk_size:
-        #     doc_chunk.append(sentence)
-        # else:
-        #     metadata_chunk = metadata[:i]
-        #     ids = [f"id{j}" for j in range(0, i-1)]
-        #     embeddings = embed(doc_chunk)
-        #     add_to_collection(ids, metadata_chunk, embeddings)
-        #     doc_chunk = [sentence]
-        #     current_chunk = len(sentence)
-            
-            
-            
+                 
 
 if __name__ == "__main__":
-    transactions()
+    initialise_db()

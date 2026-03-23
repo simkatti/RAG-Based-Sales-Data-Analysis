@@ -1,0 +1,19 @@
+Items in sub-category Bookcases (main category: Furniture) made 114880.0 $ in sales and -3472.56 $ profit, while the total discount given was 48.14 $, total profit margin: -3.02 % 
+Items in sub-category Chairs (main category: Furniture) made 328449.1 $ in sales and 26590.17 $ profit, while the total discount given was 105.0 $, total profit margin: 8.1 % 
+Items in sub-category Furnishings (main category: Furniture) made 91705.16 $ in sales and 13059.14 $ profit, while the total discount given was 132.4 $, total profit margin: 14.24 % 
+Items in sub-category Tables (main category: Furniture) made 206965.53 $ in sales and -17725.48 $ profit, while the total discount given was 83.35 $, total profit margin: -8.56 % 
+Items in sub-category Appliances (main category: Office Supplies) made 107532.16 $ in sales and 18138.01 $ profit, while the total discount given was 77.6 $, total profit margin: 16.87 % 
+Items in sub-category Art (main category: Office Supplies) made 27118.79 $ in sales and 6527.79 $ profit, while the total discount given was 59.6 $, total profit margin: 24.07 % 
+Items in sub-category Binders (main category: Office Supplies) made 203412.73 $ in sales and 30221.76 $ profit, while the total discount given was 567.0 $, total profit margin: 14.86 % 
+Items in sub-category Envelopes (main category: Office Supplies) made 16476.4 $ in sales and 6964.18 $ profit, while the total discount given was 20.4 $, total profit margin: 42.27 % 
+Items in sub-category Fasteners (main category: Office Supplies) made 3024.28 $ in sales and 949.52 $ profit, while the total discount given was 17.8 $, total profit margin: 31.4 % 
+Items in sub-category Labels (main category: Office Supplies) made 12486.31 $ in sales and 5546.25 $ profit, while the total discount given was 25.0 $, total profit margin: 44.42 % 
+Items in sub-category Paper (main category: Office Supplies) made 78479.21 $ in sales and 34053.57 $ profit, while the total discount given was 102.6 $, total profit margin: 43.39 % 
+Items in sub-category Storage (main category: Office Supplies) made 223843.61 $ in sales and 21278.83 $ profit, while the total discount given was 63.2 $, total profit margin: 9.51 % 
+Items in sub-category Supplies (main category: Office Supplies) made 46673.54 $ in sales and -1189.1 $ profit, while the total discount given was 14.6 $, total profit margin: -2.55 % 
+Items in sub-category Accessories (main category: Technology) made 167380.32 $ in sales and 41936.64 $ profit, while the total discount given was 60.8 $, total profit margin: 25.05 % 
+Items in sub-category Copiers (main category: Technology) made 149528.03 $ in sales and 55617.82 $ profit, while the total discount given was 11.0 $, total profit margin: 37.2 % 
+Items in sub-category Machines (main category: Technology) made 189238.63 $ in sales and 3384.76 $ profit, while the total discount given was 35.2 $, total profit margin: 1.79 % 
+Items in sub-category Phones (main category: Technology) made 330007.05 $ in sales and 44515.73 $ profit, while the total discount given was 137.4 $, total profit margin: 13.49 % 
+Items in sub-category Labels (main category: Office Supplies) had highest profit margin of  44.42 % 
+Items in sub-category Binders (main category: Office Supplies) had highest discount of 567.0 $
