@@ -34,7 +34,7 @@ graph TD
     end
     %% External Connections
     CDB[(ChromaDB)]
-    ST[(Sentence Transformers)]
+    ST[(Sentence Transformer)]
     OL[(Ollama phi3)]
 
 ```
