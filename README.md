@@ -19,19 +19,23 @@ graph TD
         A <--> |chunk data| CD[chunk_docs.py]
         CD --> |read txt files| TF
         A <--> |embed chunks| VE[vector_embeddings.py]
+        VE <--> ST
         A --> |add chunks to db| DB[db.py]
-        DB --> CDB
+        DB --> |chroma client| CDB
         C[user query] --> A
         A <--> |embed user query & extract metadata| VE
+        VE <--> ST
         A <--> |similarity search| DB
         DB <--> CDB
-        A --> |add search results to prompt| OL[ollama phi3]
+        A --> |add search results to prompt| OL
         OL --> |query results| A
         A --> output
 
     end
     %% External Connections
     CDB[(ChromaDB)]
+    ST[(Sentence Transformers)]
+    OL[(Ollama phi3)]
 
 ```
 
