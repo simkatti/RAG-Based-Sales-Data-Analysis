@@ -13,13 +13,13 @@ The app works by having s a integrated local LLM that answers users questions ab
 graph TD
     %% initialise 
     subgraph Architecture
-        A[main.py] --> B[parse_data.py]
+        A[main.py] --> |initialise app| B[parse_data.py]
         B -->|read file| SC[superstore.csv]
         B -->|generate files| TF[txt files]
         A <--> |chunk data| CD[chunk_docs.py]
         CD --> |read txt files| TF
         A <--> |embed chunks| VE[vector_embeddings.py]
-        A --> |add to db| DB[db.py]
+        A --> |add chunks to db| DB[db.py]
         C[user query] --> A
         A <--> |embed user query & extract metadata| VE
         A <--> |similarity search| DB
