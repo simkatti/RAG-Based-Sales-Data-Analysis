@@ -20,16 +20,18 @@ graph TD
         CD --> |read txt files| TF
         A <--> |embed chunks| VE[vector_embeddings.py]
         A --> |add chunks to db| DB[db.py]
+        DB --> CDB
         C[user query] --> A
         A <--> |embed user query & extract metadata| VE
         A <--> |similarity search| DB
+        DB <--> CDB
         A --> |add search results to prompt| OL[ollama phi3]
         OL --> |query results| A
         A --> output
 
     end
     %% External Connections
-    DB[(ChromaDB)]
+    CDB[(ChromaDB)]
 
 ```
 
