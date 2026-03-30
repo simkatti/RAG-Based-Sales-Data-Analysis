@@ -19,7 +19,7 @@ graph TD
         A <--> |chunk data| CD[chunk_docs.py]
         CD --> |read txt files| TF
         A <--> |embed chunks| VE[vector_embeddings.py]
-        VE <--> ST
+        VE <--> |all-MiniLM-L6-v2| ST
         A --> |add chunks to db| DB[db.py]
         DB --> |chroma client| CDB
         C[user query] --> A
