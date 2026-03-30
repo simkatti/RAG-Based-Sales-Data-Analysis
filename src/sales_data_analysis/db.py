@@ -12,14 +12,15 @@ def add_to_collection(ids, embeddings, chunks, metadatas):
         metadatas=metadatas
     )
     print("Added to db successfully!")
-    print(collection.count())
+    print(f"collection count: {collection.count()}")
     return
 
-def retrieval(embeddings):
+def retrieval(embeddings, query_metadata):
+    print(f"collection count: {collection.count()}")
     result = collection.query(
-    query_embeddings=[embeddings]
-    # n_results=10
-    # where={"page": 10} # query records with metadata field 'page' equal to 10
+    query_embeddings=[embeddings],
+    n_results=5,
+    where=query_metadata 
 )
     if result:
         print("Retrieval successfull")

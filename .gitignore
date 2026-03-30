@@ -1,3 +1,4 @@
 data/
 .vscode
 src/sales_data_analysis/__pycache__
+.env

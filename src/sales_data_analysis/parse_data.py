@@ -1,5 +1,14 @@
 import pandas as pd
 
+metadata = {
+    "segment": set(),
+    "year": set(),
+    "state": set(),
+    "region": set(),
+    "category": set()
+}
+
+
 def read_file():
     df = pd.read_csv('data/Sample - Superstore.csv', 
                      usecols=['Order ID','Order Date', 'Ship Date', 'Customer ID', 
@@ -22,6 +31,8 @@ def convert_rows(df):
         ', ' + df['Segment'] + ' recieved ' + df['Discount'].astype(str) + ' $ discount, Company made ' + df['Profit'].astype(str) + ' $ profit. \n'
     ).tolist()
     
+    
+    metadata['segment'] = set(df['Segment'])    
     return strings
 
 def sales_over_time(df):
@@ -43,6 +54,8 @@ def sales_over_time(df):
         result.append(
             f"Annually in {year} company made {year_row['Sales'].round(2)} $ in sales and {year_row['Profit'].round(2)} $ in profit, having a profit margin of: {year_row['Profit Margin'].round(2)} %.\n"
         )
+    
+    metadata['year'] = set(df['Order Date'].dt.year.astype(str))
     return result
 
 
@@ -63,6 +76,8 @@ def category_performance(df):
     result.append(f"Items in sub-category {max_category[1]} (main category: {max_category[0]}) had highest profit margin of  {category['Profit Margin'].max().round(2)} % \n")
     result.append(f"Items in sub-category {max_discout[1]} (main category: {max_discout[0]}) had highest discount of {category['Discount'].max().round(2)} $")
     
+    metadata['category'] = set(category['Category'])
+    metadata['sub-cateogry'] = set(category['Sub-Category'])
     return result
 
 def regional_performance(df):
@@ -83,6 +98,8 @@ def regional_performance(df):
         )
     result.append(f"Best performin region was {max_region} making total of {region['Sales']['West'].round(2)} $ sales and {region['Profit']['West'].round(2)} $ profit with profit margin of {region['Profit Margin'].max().round(2)} %")
  
+    metadata['region'] = set(regional['Region'])
+    metadata['state'] = set(regional['State'])
     return result
 
 def initialise():
@@ -108,10 +125,14 @@ def initialise():
     
     return
 
+def get_metadata():
+    return metadata
+
 # if __name__ == "__main__":
-# #     df = read_file()
-# #     regional_performance(df)
-#     initialise()
+    # df = read_file()
+    # regional_performance(df)
+    # initialise()
+    # print(get_metadata())
 
     
     
