@@ -25,6 +25,7 @@ graph TD
         A --> |add chunks to db| DB[db.py]
         DB --> |chroma client| CDB
         C[user query] --> M[main.py]
+        M <--> OL
         M --> | RAG framework with Langchain| O[output]
         M --> |initialise db| A
 
