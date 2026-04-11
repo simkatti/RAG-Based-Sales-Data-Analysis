@@ -3,17 +3,19 @@ This is a course project for University of Helsinkis master level course 'Data W
 The app works by having s a integrated local LLM that answers users questions about sales, trends, patterns and insight. 
 
 #### Components:
-* `main.py` - main component connecting all other components. Works as a interface for user questions and LLM answers
+* `main.py` - main component that includes RAG framework and user chat
 * `parse_data.py` - transforms dataset from CSV file to meaningful strings
 * `db.py` - adds data into chromedb
 * `vector_embeddings.py` - calculates vector embeddings for strings using sentence-transformers
+* `create_database.py` - initialises and populates database
+* `chunk_docs.py` - chunks documents based on chunk size and metadata tags 
 
 #### Architecture:
 ```mermaid
 graph TD
     %% initialise 
     subgraph Architecture
-        A[main.py] --> |initialise app| B[parse_data.py]
+        A[create_database.py] --> |initialise app| B[parse_data.py]
         B -->|read file| SC[superstore.csv]
         B -->|generate files| TF[txt files]
         A <--> |chunk data| CD[chunk_docs.py]
@@ -22,14 +24,10 @@ graph TD
         VE <--> |all-MiniLM-L6-v2| ST
         A --> |add chunks to db| DB[db.py]
         DB --> |chroma client| CDB
-        C[user query] --> A
-        A <--> |embed user query & extract metadata| VE
-        VE <--> ST
-        A <--> |similarity search| DB
-        DB <--> CDB
-        A --> |add search results to prompt| OL
-        OL --> |query results| A
-        A --> output
+        C[user query] --> M[main.py]
+        M --> | RAG framework with Langchain| O[output]
+        M --> |initialise db| A
+
 
     end
     %% External Connections
