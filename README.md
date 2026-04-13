@@ -1,6 +1,6 @@
 # RAG-Based Sales Data Analysis (under construction)
 This is a course project for University of Helsinkis master level course 'Data Warehousing and Business Intelligence'. This project is a RAG system that uses a sales data set from Kaggle.
-The app works by having s a integrated local LLM that answers users questions about sales, trends, patterns and insight. 
+The app works by having a integrated local LLM that answers users questions about sales, trends, patterns and insight. 
 
 #### Components:
 * `main.py` - main component that includes RAG framework and user chat
@@ -38,7 +38,6 @@ graph TD
 
 ```
 
-
 #### Technologies
 * Backend: python, pandas, poetry (for dependency management)
 * Vector database: Chromadb
@@ -47,3 +46,13 @@ graph TD
 * RAG framework: LangChain
 * Dataset: [Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+#### Installation & running 
+The app uses a local llm (ollama phi3 mini), so that should be installed.
+1. Open temrinal and navigate to ```/ollama/bin``` where the local llm is.
+2. Activate llm with ```./ollama serve```
+3. Open separate terminal
+4. clone repo
+5. navigate to project folder
+6. ```pip install poetry```
+7. ```poetry install```
+8.  Run app: ```poetry run python src/sales_data_analysis/main.py``` (make sure the llm is running aswell)
