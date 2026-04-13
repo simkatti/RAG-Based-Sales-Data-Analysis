@@ -4,3 +4,5 @@ src/sales_data_analysis/__pycache__
 .env
 chroma_db/
 TODO.txt
+.pytest_cache
+.venv

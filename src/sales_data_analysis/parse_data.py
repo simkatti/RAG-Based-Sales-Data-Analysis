@@ -1,93 +1,5 @@
 import pandas as pd
 
-metadata = {
-    'segment': {
-        'Corporate',
-        'Home Office',
-        'Consumer'},
-    'year': {
-        '2015',
-        '2017',
-        '2016',
-        '2014'},
-    'state': {
-        'New Mexico',
-        'Kentucky',
-        'Michigan',
-        'South Carolina',
-        'Missouri',
-        'New Jersey',
-        'Rhode Island',
-        'Maryland',
-        'New York',
-        'Vermont',
-        'Tennessee',
-        'California',
-        'Nevada',
-        'Kansas',
-        'Mississippi',
-        'Minnesota',
-        'Wyoming',
-        'Arizona',
-        'Montana',
-        'Massachusetts',
-        'District of Columbia',
-        'Iowa',
-        'Ohio',
-        'Oklahoma',
-        'Illinois',
-        'Louisiana',
-        'Georgia',
-        'Utah',
-        'Pennsylvania',
-        'Florida',
-        'Arkansas',
-        'North Dakota',
-        'Colorado',
-        'Connecticut',
-        'North Carolina',
-        'Maine',
-        'New Hampshire',
-        'West Virginia',
-        'South Dakota',
-        'Idaho',
-        'Oregon',
-        'Washington',
-        'Alabama',
-        'Virginia',
-        'Wisconsin',
-        'Texas',
-        'Indiana',
-        'Delaware',
-        'Nebraska'},
-    'region': {
-        'East',
-        'West',
-        'South',
-        'Central'},
-    'category': {
-        'Technology',
-        'Office Supplies',
-        'Furniture'},
-    'sub-category': {
-        'Chairs',
-        'Tables',
-        'Furnishings',
-        'Art',
-        'Binders',
-        'Appliances',
-        'Paper',
-        'Supplies',
-        'Accessories',
-        'Phones',
-        'Bookcases',
-        'Copiers',
-        'Fasteners',
-        'Storage',
-        'Machines',
-        'Labels',
-        'Envelopes'}}
-
 
 def read_file():
     df = pd.read_csv(
@@ -154,7 +66,6 @@ def convert_rows(df):
         df['Profit'].astype(str) +
         ' $ profit. \n').tolist()
 
-    metadata['segment'] = set(df['Segment'])
     return strings
 
 
@@ -183,7 +94,6 @@ def sales_over_time(df):
             f"Annually in {year} company made {year_row['Sales'].round(2)} $ in sales and {year_row['Profit'].round(2)} $ in profit, having a profit margin of: {year_row['Profit Margin'].round(2)} %.\n"
         )
 
-    metadata['year'] = set(df['Order Date'].dt.year.astype(str))
     return result
 
 
@@ -207,8 +117,6 @@ def category_performance(df):
     result.append(
         f"Items in sub-category {max_discout[1]} (main category: {max_discout[0]}) had highest discount of {category['Discount'].max().round(2)} $")
 
-    metadata['category'] = set(category['Category'])
-    metadata['sub-cateogry'] = set(category['Sub-Category'])
     return result
 
 
@@ -232,8 +140,6 @@ def regional_performance(df):
     result.append(
         f"Best performin region was {max_region} making total of {region['Sales']['West'].round(2)} $ sales and {region['Profit']['West'].round(2)} $ profit with profit margin of {region['Profit Margin'].max().round(2)} %")
 
-    metadata['region'] = set(regional['Region'])
-    metadata['state'] = set(regional['State'])
     return result
 
 
@@ -258,14 +164,8 @@ def initialise():
     write_document(region_data, "region_analysis.txt")
     print("All done!")
 
-    return
 
-
-def get_metadata():
-    return metadata
-
-
-if __name__ == "__main__":
-    df = read_file()
-    initialise()
-    print(get_metadata())
+# if __name__ == "__main__":
+#     df = read_file()
+#     initialise()
+#     print(get_metadata())

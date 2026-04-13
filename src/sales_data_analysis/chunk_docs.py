@@ -1,5 +1,5 @@
-def chunk_data(textfile, metadata):
-    chunk_size = 1000
+def chunk_data(textfile):
+    chunk_size = 2000
     with open((textfile), "r") as file:
         lines = file.readlines()
     file.close()
@@ -41,17 +41,99 @@ def chunk_data(textfile, metadata):
         chunks.append(text_chunk.strip())
         chunk_metadats.append(current_metadata)
 
-    # print(len(chunks))
-    # print(len(chunk_metadats))
-    # for chunk in chunks:
-    #     print(chunk)
-    #     print("\n")
-    # print(chunk_metadats)
-
     print("Docs chunked! returning chunks and metadata")
+    # print(chunk_metadats)
     return chunks, chunk_metadats
 
 
-# if __name__ == "__main__":
-#     metadata = {'segment': {'Home Office', 'Consumer', 'Corporate'}, 'year': {'2016', '2017', '2014', '2015'}, 'state': {'West Virginia', 'Oklahoma', 'Nevada', 'Missouri', 'Maryland', 'Montana', 'Indiana', 'Illinois', 'Kansas', 'Idaho', 'Vermont', 'Alabama', 'Wisconsin', 'Florida', 'Nebraska', 'Iowa', 'Tennessee', 'New Hampshire', 'Michigan', 'Ohio', 'Minnesota', 'New Jersey', 'District of Columbia', 'Georgia', 'Washington', 'Oregon', 'South Dakota', 'New York', 'Wyoming', 'Pennsylvania', 'Texas', 'Connecticut', 'Rhode Island', 'Colorado', 'Maine', 'Kentucky', 'Mississippi', 'Delaware', 'Arizona', 'Utah', 'New Mexico', 'Louisiana', 'Virginia', 'California', 'South Carolina', 'Massachusetts', 'North Dakota', 'North Carolina', 'Arkansas'}, 'region': {'South', 'West', 'East', 'Central'}, 'category': {'Technology', 'Furniture', 'Office Supplies'}}
-#     chunk_data("row_descriptions.txt", metadata)
+metadata = {
+    'segment': {
+        'Corporate',
+        'Home Office',
+        'Consumer'},
+    'year': {
+        '2015',
+        '2017',
+        '2016',
+        '2014'},
+    'state': {
+        'New Mexico',
+        'Kentucky',
+        'Michigan',
+        'South Carolina',
+        'Missouri',
+        'New Jersey',
+        'Rhode Island',
+        'Maryland',
+        'New York',
+        'Vermont',
+        'Tennessee',
+        'California',
+        'Nevada',
+        'Kansas',
+        'Mississippi',
+        'Minnesota',
+        'Wyoming',
+        'Arizona',
+        'Montana',
+        'Massachusetts',
+        'District of Columbia',
+        'Iowa',
+        'Ohio',
+        'Oklahoma',
+        'Illinois',
+        'Louisiana',
+        'Georgia',
+        'Utah',
+        'Pennsylvania',
+        'Florida',
+        'Arkansas',
+        'North Dakota',
+        'Colorado',
+        'Connecticut',
+        'North Carolina',
+        'Maine',
+        'New Hampshire',
+        'West Virginia',
+        'South Dakota',
+        'Idaho',
+        'Oregon',
+        'Washington',
+        'Alabama',
+        'Virginia',
+        'Wisconsin',
+        'Texas',
+        'Indiana',
+        'Delaware',
+        'Nebraska'},
+    'region': {
+        'East',
+        'West',
+        'South',
+        'Central'},
+    'category': {
+        'Technology',
+        'Office Supplies',
+        'Furniture'},
+    'sub-category': {
+        'Chairs',
+        'Tables',
+        'Furnishings',
+        'Art',
+        'Binders',
+        'Appliances',
+        'Paper',
+        'Supplies',
+        'Accessories',
+        'Phones',
+        'Bookcases',
+        'Copiers',
+        'Fasteners',
+        'Storage',
+        'Machines',
+        'Labels',
+        'Envelopes'}}
+
+
+def get_metadata():
+    return metadata
