@@ -55,5 +55,5 @@ The app uses a local llm (ollama phi3 mini), so that should be installed.
 5. navigate to project folder
 7. ```pip install poetry```
 8. ```poetry install```
-9.  Run app: ```poetry run python src/sales_data_analysis/main.py``` (make sure the llm is running aswell)
+9.  Run app: ```poetry run python -m sales_data_analysis.main``` (make sure the llm is running aswell)
 10.  Run tests with ```poetry run pytest tests/test_logic.py```
